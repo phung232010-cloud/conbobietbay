@@ -1,0 +1,217 @@
+--- PAGE 1 ---
+Đề thi thử Vòng cấp cơ sở – Cuộc thi AI or Behind 2026–2027 
+Nov 20, 2026 · @Nghi Lộc 3 
+Thông tin đề thi 
+SỞ GIÁO DỤC VÀ ĐÀO TẠO NGHỆ AN – TRƯỜNG THPT NGHI LỘC 3 
+ĐỀ THI THỬ VÒNG THI CẤP CƠ SỞ – CUỘC THI AI OR BEHIND NĂM 
+HỌC 2026–2027 
+Bài thi mô phỏng: Gmetrix Generative AI Foundations (Gen AI). Đề gồm 40 câu, 
+làm trong 50 phút, thang 1000 điểm; đạt từ 700 điểm trở lên (tương đương từ 28 
+câu đúng). 
+Họ và tên thí sinh: ………………………………………… Lớp: ………… Số báo 
+danh: ………… 
+Dạng câu hỏi Cách làm bài trên giấy 
+Chọn 1 đáp án đúng Khoanh tròn một chữ cái A, B, C hoặc D. 
+Chọn nhiều đáp án đúng Khoanh đủ số đáp án đề yêu cầu (ví dụ “Chọn 
+2”). 
+Chọn Đúng hoặc Sai Đánh dấu X vào cột Đúng hoặc Sai cho từng ý a, 
+b, c, d. 
+Sắp xếp đúng các bước Viết thứ tự các chữ cái, ví dụ: B → D → A → C. 
+Kéo thả Ghép mỗi mục số ở cột trái với một mục chữ ở 
+cột phải, ví dụ: 1-c. Có thể có mục chữ thừa. 
+Lựa chọn hình ảnh Quan sát các hình A, B, C, D rồi khoanh chữ cái 
+của hình đúng. 
+Mỗi câu 25 điểm. Câu có nhiều ý (chọn nhiều, Đúng/Sai, sắp xếp, kéo thả) chỉ 
+được điểm khi làm đúng toàn bộ. 
+Lưu ý khi thi thật: bài làm trên máy tính có Internet, chọn tiếng Việt hoặc tiếng 
+Anh và không đổi được ngôn ngữ sau khi mở bài; mỗi mã bài thi chỉ làm được một 
+lượt. 
+--- PAGE 2 ---
+Phần I – Phương pháp và mô hình Generative AI (Câu 1–10) 
+Câu 1. Điểm khác biệt cốt lõi giữa AI tạo sinh (Generative AI) và AI dự đoán, 
+phân loại (Predictive/Discriminative AI) là gì? 
+A. AI tạo sinh chỉ xử lý được văn bản, còn AI dự đoán xử lý được cả hình ảnh. 
+B. AI tạo sinh không cần dữ liệu để huấn luyện. 
+C. AI tạo sinh tạo ra nội dung mới từ các mẫu học được trong dữ liệu; AI dự đoán, 
+phân loại gán nhãn hoặc dự báo một giá trị từ dữ liệu đầu vào. 
+D. AI dự đoán luôn cho kết quả chính xác hơn AI tạo sinh. 
+Câu 2. So với công cụ tìm kiếm (search engine), chatbot AI tạo sinh khác ở điểm 
+nào? 
+A. Chatbot tổng hợp và sinh ra câu trả lời mới bằng ngôn ngữ tự nhiên, có thể sai 
+và không phải lúc nào cũng kèm nguồn. 
+B. Chatbot chỉ trả về danh sách đường liên kết tới các trang web có sẵn. 
+C. Chatbot luôn cập nhật dữ liệu theo thời gian thực. 
+D. Chatbot chỉ trả lời được các câu hỏi có sẵn trong cơ sở dữ liệu. 
+Câu 3. Kiến trúc nào là nền tảng của hầu hết các mô hình ngôn ngữ lớn (LLM) 
+hiện nay như GPT, Gemini, Claude? 
+A. GAN (mạng đối nghịch tạo sinh) 
+B. VAE (bộ tự mã hóa biến phân) 
+C. Cây quyết định (decision tree) 
+D. Transformer 
+Câu 4. Trong nhiều công cụ AI, khi tăng tham số “nhiệt độ” (temperature) thì câu 
+trả lời thường: 
+A. ngắn hơn và luôn chính xác hơn. 
+B. đa dạng, sáng tạo hơn nhưng kém ổn định hơn giữa các lần hỏi. 
+C. được tạo nhanh hơn vì máy tính chạy ở nhiệt độ cao. 
+D. luôn giống hệt nhau ở mọi lần hỏi. 
+--- PAGE 3 ---
+Câu 5. “Ảo giác” (hallucination) của AI tạo sinh là hiện tượng: 
+A. AI từ chối trả lời câu hỏi của người dùng. 
+B. AI trả lời chậm do kết nối mạng yếu. 
+C. AI tạo ra thông tin nghe hợp lý, trôi chảy nhưng sai hoặc không có thật, ví dụ 
+trích dẫn một bài báo không tồn tại. 
+D. AI tạo ra hình ảnh có màu sắc quá rực rỡ. 
+Câu 6. Những phát biểu nào đúng về quá trình huấn luyện mô hình AI tạo sinh? 
+(Chọn 3) 
+A. Mô hình ngôn ngữ lớn cần lượng dữ liệu huấn luyện rất lớn. 
+B. Sau khi huấn luyện xong, mô hình tự động cập nhật mọi sự kiện mới hằng ngày. 
+C. Huấn luyện mô hình tiêu tốn nhiều năng lượng và cần các GPU mạnh. 
+D. Dữ liệu huấn luyện có thể mang theo quan điểm, định kiến của người tạo ra nó. 
+E. Mọi loại mô hình (tạo văn bản, tạo ảnh) đều được huấn luyện theo cùng một 
+cách. 
+Câu 7. Về đầu vào và đầu ra của các công cụ AI tạo sinh, mỗi ý sau đúng hay sai? 
+Ý Nội dung Đúng Sai 
+a Một số công cụ nhận đầu vào là hình ảnh và tạo ra văn 
+bản mô tả hình ảnh đó. 
+  
+b Mọi công cụ AI tạo sinh đều chấp nhận cùng các loại 
+đầu vào: văn bản, âm thanh, hình ảnh, video. 
+  
+c Có công cụ chuyển một đoạn văn bản thành giọng đọc.   
+d AI tạo sinh chỉ tạo được văn bản, không tạo được 
+video. 
+  
+Câu 8. Về giới hạn của AI tạo sinh, mỗi ý sau đúng hay sai? 
+Ý Nội dung Đúng Sai 
+a Cùng một prompt, hỏi hai lần có thể nhận được hai câu 
+trả lời khác nhau. 
+  
+--- PAGE 4 ---
+Ý Nội dung Đúng Sai 
+b Nội dung AI tạo ra luôn đáng tin cậy nếu được viết trôi 
+chảy, rõ ràng. 
+  
+c Nếu không điều chỉnh cài đặt quyền riêng tư, cuộc trò 
+chuyện có thể được dùng để huấn luyện mô hình. 
+  
+d Hiện đã có một bộ tiêu chuẩn chung, bắt buộc trên toàn 
+thế giới cho mọi cách sử dụng AI tạo sinh. 
+  
+Câu 9. (Kéo thả) Ghép mỗi thuật ngữ với định nghĩa phù hợp. Có một định nghĩa 
+không dùng đến. 
+Thuật ngữ Định nghĩa 
+1. Token a. Mô hình gồm nhiều lớp “nơ-ron” nhân 
+tạo liên kết với nhau, học từ dữ liệu bằng 
+cách điều chỉnh trọng số. 
+2. Tập dữ liệu (dataset) b. Đơn vị văn bản nhỏ (một từ, một phần 
+của từ hoặc dấu câu) mà mô hình ngôn ngữ 
+xử lý. 
+3. Mạng nơ-ron (neural network) c. Loại mạng nơ-ron xử lý hình ảnh hiệu quả 
+nhờ các bộ lọc quét qua từng vùng ảnh. 
+4. Mạng nơ-ron tích chập (CNN) d. Tập hợp văn bản, hình ảnh… được dùng 
+để huấn luyện mô hình. 
+ e. Câu lệnh người dùng nhập để yêu cầu AI 
+thực hiện một nhiệm vụ. 
+Trả lời: 1-…… 2-…… 3-…… 4-…… 
+Câu 10. (Lựa chọn hình ảnh) Hình nào dưới đây mô tả đúng cách mô hình khuếch 
+tán (diffusion) tạo ra một ảnh mới theo prompt? 
+--- PAGE 5 ---
+ 
+Câu 10 · hình A, B, C, D 
+Phần II – Kỹ thuật prompt / tương tác với công cụ AI (Câu 11–22) 
+Câu 11. Prompt nào hiệu quả nhất để nhờ AI tóm tắt một bài báo khoa học dài cho 
+học sinh lớp 10? 
+A. “Tóm tắt.” 
+B. “Tóm tắt bài này cho dễ hiểu.” 
+C. “Bạn là giáo viên Sinh học. Hãy tóm tắt bài báo dưới đây thành 5 ý chính, mỗi ý 
+không quá 2 câu, dùng ngôn ngữ phù hợp với học sinh lớp 10 và giải thích các 
+thuật ngữ khó. [nội dung bài báo]” 
+D. “Viết lại toàn bộ bài báo dưới đây cho hay hơn.” 
+Câu 12. Trước khi nhờ AI viết bài nghị luận về tác hại của vi nhựa, bạn yêu cầu AI 
+“liệt kê 5 sự thật khoa học quan trọng về vi nhựa”, rồi dùng chính danh sách đó 
+làm cơ sở để viết bài. Đây là kỹ thuật: 
+A. Zero-shot prompting 
+B. Tạo tri thức trước (Generated knowledge prompting) 
+C. Prompt ngược (Reverse prompting) 
+D. Gán vai trò (Persona) 
+
+--- PAGE 6 ---
+Câu 13. Yêu cầu AI “hãy suy luận từng bước trước khi đưa ra đáp án” khi giải một 
+bài toán là kỹ thuật: 
+A. Chuỗi suy luận (Chain-of-thought) 
+B. Few-shot prompting 
+C. Tự nhất quán (Self-consistency) 
+D. Prompt ngược (Reverse prompting) 
+Câu 14. Khi dịch tài liệu chuyên ngành bằng AI, đầu vào bổ sung nào giúp thuật 
+ngữ được dịch nhất quán nhất? 
+A. Yêu cầu AI dịch nhanh hơn. 
+B. Chụp tài liệu thành nhiều file ảnh rồi gửi lần lượt. 
+C. Xóa hết các thuật ngữ khó trước khi dịch. 
+D. Cung cấp bảng thuật ngữ (glossary) kèm cách dịch mong muốn. 
+Câu 15. “Prompt ngược” (reverse prompting) là cách: 
+A. viết prompt theo thứ tự ngược từ cuối lên đầu. 
+B. đưa cho AI một sản phẩm mẫu (bài viết, bức ảnh…) và yêu cầu AI viết ra 
+prompt có thể tạo ra sản phẩm tương tự. 
+C. yêu cầu AI trả lời bằng một ngôn ngữ khác. 
+D. xóa lịch sử trò chuyện rồi hỏi lại từ đầu. 
+Câu 16. Một bạn gõ prompt “Viết bài về CLB” và nhận được kết quả chung 
+chung. Hai cách cải thiện hiệu quả nhất là gì? (Chọn 2) 
+A. Viết tắt nhiều hơn để prompt ngắn gọn. 
+B. Nêu rõ ngữ cảnh: CLB gì, của trường nào, bài đăng ở đâu, ai sẽ đọc. 
+C. Gõ lại đúng prompt cũ nhiều lần đến khi kết quả tốt hơn. 
+D. Nêu yêu cầu về giọng văn, độ dài và định dạng, ví dụ “150 chữ, giọng vui tươi, 
+kèm 3 hashtag”. 
+E. Giả định AI đã biết rõ CLB của mình. 
+--- PAGE 7 ---
+Câu 17. Những prompt nào thuộc nhóm “chuyển đổi nội dung” (transform 
+content)? (Chọn 2) 
+A. “Chuyển đoạn văn sau thành bảng so sánh 3 cột.” 
+B. “Liệt kê 10 ý tưởng đặt tên cho đội thi.” 
+C. “Dịch email sau sang tiếng Anh, giữ giọng trang trọng.” 
+D. “Thủ đô của Australia là thành phố nào?” 
+Câu 18. Về việc tinh chỉnh prompt, mỗi ý sau đúng hay sai? 
+Ý Nội dung Đúng Sai 
+a Gán vai trò cho AI, ví dụ “Bạn là hướng dẫn viên du 
+lịch”, giúp câu trả lời phù hợp hơn với mục đích. 
+  
+b Nên dùng nhiều từ viết tắt để AI hiểu nhanh hơn.   
+c Trong cùng một cuộc trò chuyện, AI có thể dựa vào các 
+trao đổi trước đó để trả lời. 
+  
+d Prompt càng dài thì kết quả chắc chắn càng tốt.   
+Câu 19. (Sắp xếp) Sắp xếp các bước làm việc với AI tạo sinh theo trình tự hợp lý: 
+A. Đọc và đánh giá kết quả đầu tiên. 
+B. Xác định rõ mục tiêu và sản phẩm cần có. 
+C. Tinh chỉnh prompt, rồi kiểm chứng kết quả cuối cùng. 
+D. Viết prompt đầu tiên có đủ ngữ cảnh, nhiệm vụ và định dạng mong muốn. 
+E. Sử dụng sản phẩm và ghi chú rõ việc có dùng AI. 
+Thứ tự: …… → …… → …… → …… → …… 
+Câu 20. (Kéo thả) Ghép mỗi kỹ thuật prompt với ví dụ phù hợp. 
+Kỹ thuật Ví dụ 
+1. Zero-shot a. “Trình bày kết quả theo mẫu: Tên loài – Đặc 
+điểm nhận dạng – Môi trường sống.” 
+2. Few-shot b. “‘Món này ngon tuyệt’ → Tích cực; ‘Phục vụ 
+quá chậm’ → Tiêu cực. Vậy ‘Giá hơi cao nhưng 
+--- PAGE 8 ---
+Kỹ thuật Ví dụ 
+đáng tiền’ → ?” 
+3. Dùng mẫu (template) c. “Bạn là nhà tuyển dụng. Hãy nhận xét CV sau 
+và chỉ ra 3 điểm cần sửa.” 
+4. Gán vai trò (persona) d. “Phân loại cảm xúc của câu sau: ‘Hôm nay trời 
+đẹp quá!’” 
+Trả lời: 1-…… 2-…… 3-…… 4-…… 
+Câu 21. (Kéo thả) Cho prompt tạo ảnh: “Một học sinh đang đọc sách dưới gốc cây 
+phượng, phong cách tranh màu nước, ánh nắng chiều, tỷ lệ khung hình 16:9.” Ghép 
+mỗi cụm từ với vai trò của nó trong prompt. Có một vai trò không dùng đến. 
+Cụm từ Vai trò 
+1. “Một học sinh đang đọc sách” a. Phong cách nghệ thuật 
+2. “dưới gốc cây phượng” b. Thông số định dạng đầu ra 
+3. “phong cách tranh màu nước” c. Chủ thể và hành động 
+4. “tỷ lệ khung hình 16:9” d. Bối cảnh, địa điểm 
+ e. Ánh sáng 
+Trả lời: 1-…… 2-…… 3-…… 4-…… 
+Câu 22. (Lựa chọn hình ảnh) Sơ đồ nào dưới đây mô tả đúng kỹ thuật chuỗi 
+prompt (prompt chaining)? 
+--- PAGE 9 ---
+ 
+Câu 22 · sơ đồ A, B, C, D 

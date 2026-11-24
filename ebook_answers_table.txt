@@ -1,0 +1,217 @@
+=== Page 95 ===
+ ĐÁP ÁN VÀ GIẢI THÍCH CÂU HỎI ÔN TẬP  
+IIG Vietnam  88 
+ĐÁP ÁN VÀ GIẢI THÍCH CÂU HỎI ÔN TẬP 
+Bài Câu ĐÁP ÁN GIẢI THÍCH 
+A B C D 
+1 
+1  x   Tài liệu tập trung vào việc cung cấp kiến thức cơ bản về AI tạo sinh, đặc biệt trong bối cảnh ứng dụng cho doanh nghiệp (như quản lý thiết bị thông minh) và cá nhân, không phải về lập trình AI hay công cụ 
+tìm kiếm. 
+2  x   AI tạo sinh tạo ra nội dung mới như văn bản, hình ảnh dựa trên câu lệnh, trong khi AI dự đoán (Predictive AI) dự báo giá trị tương lai dựa trên dữ liệu và xu hướng, ví dụ như dự báo doanh số. 
+3  x   AI tạo sinh phù hợp để tạo ra kết quả cụ thể, tùy chỉnh như một kế hoạch tiếp thị chi tiết. Công cụ tìm kiếm phù hợp hơn khi cần thu thập đa dạng thông tin hoặc so sánh nguồn dữ liệu. 
+4   x  Tài liệu nêu rõ khóa học bao gồm 4 domain chính: 1) Phương pháp và phương pháp luận của AI tạo sinh, 2) Kỹ thuật xây dựng prompt cơ bản, 3) Tinh chỉnh prompt, 4) Đạo đức, pháp luật và tác động xã hội của AI. 
+5 x    AI tạo sinh được sử dụng để tạo ra nội dung cụ thể, như yêu cầu ChatGPT soạn thảo một kế hoạch tiếp thị chi tiết. Các lựa chọn khác liên quan đến công cụ tìm kiếm, vốn cung cấp nhiều nguồn thông tin để 
+người dùng tự tổng hợp. 
+2 
+1    x ChatGPT được huấn luyện bằng học không giám sát, dự đoán từ tiếp theo trong câu dựa trên dữ liệu văn bản lớn, như được nêu trong tài liệu. 
+2   x  Tài liệu nêu rõ rằng LLM nội bộ doanh nghiệp hoạt động hiệu quả với lượng dữ liệu nhỏ hơn, phù hợp cho các nhu cầu cụ thể, trong khi Google Gemini yêu cầu dữ liệu huấn luyện khổng lồ. 
+3 x    LLMs như ChatGPT được huấn luyện trên dữ liệu đa dạng từ nhiều nguồn, có thể phản ánh các quan điểm khác nhau và không cập nhật thời gian thực, do đó cần kiểm chứng thông tin. 
+4   x  Tài liệu giải thích rằng gán nhãn thủ công (ví dụ: gắn từ khóa như “phòng khách” cho hình ảnh) giúp mô hình hình ảnh truy xuất và tạo nội dung hình ảnh chính xác dựa trên từ khóa. 
+5  x   Tài liệu nhấn mạnh rằng GPU vượt trội là cần thiết để xử lý song song, giúp huấn luyện LLM nhanh hơn và tiết kiệm năng lượng so với CPU, đặc biệt khi xử lý hàng tỷ đơn vị dữ liệu. 
+3 
+1  x   Tài liệu nêu rõ rằng mô hình transformer phù hợp để tạo văn bản giống con người, được sử dụng cho chatbot và hỗ trợ khách hàng, ví dụ như tạo nội dung marketing cho thiết bị nhà thông minh. 
+2    x Theo tài liệu, mạng nơ-ron tích chập (CNNs) chuyên phân loại hình ảnh, nhận diện đặc điểm như khuôn mặt (màu da, mắt, mũi) bằng cách chia ảnh thành lưới. 
+3   x  Tài liệu giải thích rằng khuếch tán (Diffusion) và sinh nhiễu (Noise Generation) liên quan đến việc thêm nhiễu ngẫu nhiên vào dữ liệu (ảnh) trong huấn luyện để mô hình học khôi phục ảnh chất lượng 
+cao từ ảnh kém chất lượng. 
+4  x   Theo tài liệu, siêu tham số là các tham số được thiết lập trước huấn luyện, quyết định tốc độ và hiệu quả học của mô hình, ví dụ như đặt tốc độ học để tối ưu hóa tiết kiệm năng lượng cho thiết bị thông minh. 
+5   x  Tài liệu chỉ rõ rằng bộ mã hóa tự biến phân (VAEs) được sử dụng để phát hiện bất thường trong dữ liệu, như lỗi trong quy trình sản xuất bộ điều chỉnh nhiệt thông minh (ví dụ: sản lượng bất thường 5 
+chiếc/giờ so với 35-45 chiếc/giờ). 
+4 
+1  x   Tài liệu nêu rõ rằng kết hợp đa dạng đầu vào (văn bản, hình ảnh, âm thanh, video) giúp tối ưu hóa chất lượng đầu ra, phù hợp với mục đích cụ thể, như tạo chú thích văn bản từ hình ảnh hoặc thông tin từ âm thanh. 
+2   x  Theo tài liệu, Google Gemini hỗ trợ sử dụng micro để nói (ví dụ: “Smart Home Devices Save Energy”) và chuyển lời nói thành văn bản, sau đó cung cấp thông tin liên quan. ChatGPT không hỗ trợ trực tiếp 
+chuyển âm thanh thành văn bản, và Adobe Firefly tập trung vào tạo hình ảnh. 
+3 x    Tài liệu đưa ví dụ về việc sử dụng ChatGPT với đầu vào là hình ảnh (bộ điều chỉnh nhiệt thông minh) và văn bản (“Generate a caption for this image”) để tạo ra chú thích văn bản, không phải hình ảnh, âm 
+thanh hay video. 
+4  x   Tài liệu giải thích rằng các ứng dụng độc lập như Microsoft Copilot được tùy chỉnh để thực hiện các tác vụ cụ thể, tích hợp nhiều chức năng trong một nền tảng duy nhất, giúp tiết kiệm thời gian và tối ưu 
+hóa quy trình làm việc. 
+5   x  Tài liệu đưa ví dụ rằng nói “Hiển thị những nhà hàng ngon nhất ở Hà Nội với mức giá dưới 2.000.000 VNĐ” là tác vụ lọc kết quả dựa trên tiêu chí cụ thể (giá cả), trong khi các lựa chọn khác liên quan đến 
+hiển thị danh sách, xem chi tiết hoặc tạo chú thích. 
+5 
+1  x   Tài liệu nêu rõ rằng Adobe Express được sử dụng để thiết kế đồ họa, video và nội dung truyền thông xã hội, ví dụ như tạo banner quảng cáo cho thiết bị nhà thông minh. Các công cụ khác như Microsoft 
+Copilot, Google Gemini hay Claude tập trung hơn vào văn bản hoặc các tác vụ khác. 
+2   x  Theo tài liệu, Microsoft Copilot trong Word hỗ trợ câu lệnh cụm từ tiếp theo khi người dùng nhập văn bản (ví dụ: “I am here to explain what AI tạo sinh is…”), giúp hoàn thiện câu văn nhanh chóng. 
+3  x   Tài liệu nhấn mạnh rằng trong môi trường doanh nghiệp nhạy cảm về bảo mật, cần chọn công cụ không lưu trữ dữ liệu cá nhân và sử dụng giao thức mã hóa (như HTTPS), đồng thời có cơ chế ngăn chặn truy 
+cập trái phép. 
+=== Page 96 ===
+ĐÁP ÁN VÀ GIẢI THÍCH CÂU HỎI ÔN TẬP  
+IIG Vietnam 89 
+Bài Câu ĐÁP ÁN GIẢI THÍCH 
+A B C D 
+4 x    Tài liệu chỉ rõ rằng Stable Diffusion được thiết kế để tạo hình ảnh từ văn bản, ví dụ như nhập “A smart thermostat in a modern living room” để tạo hình ảnh minh họa, trong khi các công cụ khác tập trung 
+vào các tác vụ khác như truyền thông xã hội, xây dựng mô hình AI hoặc thiết kế tài liệu. 
+5  x   Tài liệu giải thích rằng trong môi trường doanh nghiệp, khả năng tùy biến của công cụ AI (như điều chỉnh phản hồi khách hàng hoặc thiết lập chuỗi dừng) là cần thiết để đáp ứng các nhu cầu cụ thể, giúp 
+tối ưu hóa hiệu quả sử dụng. 
+6 
+1  x   Tài liệu nêu rằng các mô hình ngôn ngữ lớn (LLMs) có thể cung cấp thông tin không cập nhật, ví dụ như bỏ sót các mẫu bộ điều chỉnh nhiệt thông minh mới, dẫn đến đầu ra không đáng tin cậy, đặc biệt 
+với thông tin nhạy cảm về thời gian. 
+2   x  Tài liệu định nghĩa “ảo giác” là kết quả sai lệch do cơ chế dự đoán từ tiếp theo của LLM, không dựa trên dữ liệu thực tế, ví dụ như mô tả một trận chiến lịch sử chưa từng xảy ra. 
+3  x   Tài liệu nhấn mạnh rằng LLMs yêu cầu kết nối internet tốc độ cao để truy cập và xử lý dữ liệu lưu trữ trên đám mây, ví dụ như khi phân tích dữ liệu tiêu thụ điện từ bộ dữ liệu công cộng. 
+4   x  Tài liệu khuyến nghị người dùng kiểm tra các thiết lập bảo mật (như xóa lịch sử trò chuyện hoặc bật xác thực đa yếu tố) và tránh nhập thông tin cá nhân để bảo vệ quyền riêng tư khi sử dụng ChatGPT. 
+5  x   Tài liệu giải thích rằng viết prompt rõ ràng, cụ thể và tinh chỉnh khi cần (ví dụ: từ “Giải thích một thiết bị nhà thông minh” sang “Giải thích về đèn thông minh Philips Hue”) giúp giảm thiểu sự không nhất 
+quán trong đầu ra của AI yạo sinh. 
+7 
+1  x   Tài liệu nhấn mạnh rằng việc xác định mục tiêu cụ thể của prompt là bước quan trọng đầu tiên để thu thập thông tin liên quan, ví dụ như thu thập chi tiết về tính năng, giá cả và đối tượng khách hàng khi tạo 
+mô tả sản phẩm. 
+2 x    Tài liệu nêu rõ rằng AI có thể tóm tắt nội dung từ các trang web, như khi nhập “Tóm tắt trang LearnKey.com” vào ChatGPT, kết quả sẽ là một bản tóm tắt ngắn gọn về nội dung chính của trang. 
+3    x Theo tài liệu, tổ chức thông tin rõ ràng và viết prompt cụ thể (ví dụ: “Mô tả các tính năng nổi bật của iPhone 16 dựa trên thông báo chính thức từ Apple vào tháng 9/2025”) giúp giảm thiểu đầu ra không 
+mong muốn và nâng cao chất lượng kết quả. 
+4  x   Tài liệu giải thích rằng AI tạo sinh có thể đề xuất ý tưởng sáng tạo, ví dụ như nhập “Hãy cho tôi ý tưởng viết tagline dài hai đoạn cho brochure về thiết bị nhà thông minh” vào ChatGPT để nhận các gợi 
+ý tagline đa dạng. 
+5   x  Tài liệu nêu ví dụ rằng nhập “Liệt kê các tính năng phổ biến của tủ lạnh thông minh theo dạng gạch đầu dòng” sẽ tạo ra danh sách chi tiết, dễ sử dụng để phát triển nội dung, như cho brochure quảng cáo. 
+8 
+1  x   Tài liệu nêu ví dụ rằng để nhận dữ liệu dưới dạng bảng, cần sử dụng câu lệnh cụ thể như “Trình bày dữ liệu về số lượng thiết bị thông minh từ năm 2020-2025 dưới dạng bảng” để đảm bảo kết quả phù hợp 
+và tránh đầu ra dạng văn bản chung chung. 
+2    x Tài liệu đưa ví dụ rằng yêu cầu cụ thể như “Chỉnh sửa văn bản này theo phong cách thân thiện, dễ hiểu cho người mới sử dụng AI” sẽ giúp AI điều chỉnh nội dung phù hợp với đối tượng mục tiêu, ví dụ như 
+chuyển “ChatGPT là một mô hình AI tiên tiến” thành giải thích dễ hiểu hơn. 
+3 x    Tài liệu nhấn mạnh rằng prompt cần cụ thể, ví dụ như “Dùng hình ảnh để thể hiện nội dung” hoặc “Tạo hình ảnh nội thất ngôi nhà với các thiết bị gia dụng thông minh” để đảm bảo AI tạo ra kết quả trực quan 
+đúng ý, tránh chỉ nhận mô tả văn bản. 
+4   x  Tài liệu lưu ý rằng bản dịch AI có thể thiếu chính xác về ý nghĩa hoặc ngữ cảnh, do đó cần người có kinh nghiệm hoặc người bản ngữ kiểm tra lại, ví dụ như chỉnh sửa bản dịch tiếng Tây Ban Nha về nhiệt 
+kế thông minh để đảm bảo tính chuyên nghiệp. 
+5  x   Tài liệu nêu ví dụ rằng để cá nhân hóa nội dung cho học sinh lớp 8, cần sử dụng prompt cụ thể như “Giải thích quy trình gửi cảnh báo từ ứng dụng đến khóa cửa thông minh cho học sinh lớp 8” để nhận 
+giải thích đơn giản, phù hợp với trình độ của đối tượng. 
+9 
+1 x    Tài liệu nhấn mạnh rằng cần tinh chỉnh prompt cụ thể, ví dụ như “Tạo hình ảnh máy điều nhiệt thông minh gắn trên tường trong văn phòng với nhiệt độ hiển thị theo độ Celsius”, để đảm bảo hình ảnh phản 
+ánh đúng yêu cầu, thay vì nhận kết quả không mong muốn như nhiệt độ theo độ Fahrenheit. 
+2  x   Tài liệu nêu rằng nhập “Làm cho bức ảnh này trông giống một bức tranh màu nước” vào Google Gemini sẽ biến đổi ảnh hiện có thành phiên bản với hiệu ứng màu nước, mặc dù kết quả có thể khác 
+biệt so với ảnh gốc. 
+3   x  Tài liệu khuyến nghị ghi rõ nguồn hình ảnh, ví dụ “Hình ảnh được tạo bởi Google Gemini”, trong các ấn phẩm hoặc brochure để đảm bảo minh bạch và tránh rủi ro pháp lý liên quan đến bản quyền. 
+4  x   Tài liệu lưu ý rằng nếu prompt không rõ ràng, việc thêm nội dung như biểu tượng gia dụng thông minh có thể tạo ra kết quả rối hoặc không đồng nhất, ví dụ như màu sắc khung không thống nhất, đòi hỏi 
+chỉnh sửa thêm bằng công cụ như Photoshop. 
+5    x Tài liệu giải thích rằng sử dụng prompt như “Phong cách của ngôi nhà này là gì” sẽ khiến AI cung cấp thông tin về kiểu kiến trúc và bối cảnh lịch sử của ngôi nhà trong ảnh, không phải hình ảnh mới, biểu 
+đồ hay siêu dữ liệu. 
+=== Page 97 ===
+ĐÁP ÁN VÀ GIẢI THÍCH CÂU HỎI ÔN TẬP  
+90  IIG Vietnam 
+Bài Câu ĐÁP ÁN GIẢI THÍCH 
+A B C D 
+10 
+1  x   Tài liệu nêu rằng để tạo video từ hình ảnh tĩnh, cần sử dụng prompt cụ thể như “Tạo video 5 giây với con thuyền di chuyển ngang trên mặt nước, không âm thanh” trong InVideo AI để đảm bảo kết quả 
+đúng ý, tránh các lỗi như phóng to mặt nước thay vì thuyền di chuyển. 
+2 x    Tài liệu giải thích rằng nội suy là quá trình thêm khung hình để tăng độ mượt và chất lượng video, ví dụ như áp dụng nội suy để làm mượt chuyển động của video con thuyền hoặc cải thiện độ sắc nét của 
+video phòng thông minh. 
+3   x  Tài liệu lưu ý rằng các công cụ miễn phí như editingtools.io có giới hạn tín dụng (ví dụ: 8 credit miễn phí nhưng cần 14 credit để tô màu video 6 giây), đòi hỏi người dùng trả phí để thực hiện các tác vụ 
+phức tạp như tô màu video. 
+4  x   Tài liệu nêu ví dụ rằng trong elai.io, người dùng nên chọn avatar như “GIA Business” và nhập kịch bản cụ thể như “Tất cả các thiết bị nhà thông minh giảm giá 10% trong tháng này” để tạo video quảng cáo 
+ngắn, sau đó sử dụng chức năng xem trước và xuất video. 
+5    x Tài liệu nhấn mạnh rằng thêm phụ đề tự động vào video, ví dụ như cho video quảng cáo thiết bị nhà thông minh, giúp hỗ trợ khán giả gặp khó khăn về thính giác hoặc xem ở môi trường ồn ào, nâng cao 
+khả năng tiếp cận và trải nghiệm người xem. 
+11 
+1  x   Tài liệu nhấn mạnh rằng sử dụng prompt rõ ràng, cụ thể và tránh viết tắt hoặc thuật ngữ mơ hồ (ví dụ: thay “Khả năng AV của Tesla” bằng “Những khả năng tự lái của xe Tesla Model S là gì?”) giúp đảm 
+bảo nội dung đầu ra chính xác và phù hợp với mục tiêu. 
+2 x    Tài liệu nêu ví dụ rằng prompt như “Viết lại mô tả chi tiết về thiết bị nhà thông minh cho người cao tuổi không rành công nghệ” sẽ giúp AI tạo nội dung đơn giản, dễ hiểu, với ví dụ thực tế thay vì thuật 
+ngữ kỹ thuật, phù hợp với đối tượng mục tiêu. 
+3   x  Tài liệu giải thích rằng nhân vật (persona) phản ánh tính cách, như “Viết với nhân vật thân thiện, dễ hiểu”, trong khi vai trò (role) tập trung vào chức năng, như “Viết từ góc độ kỹ thuật viên lắp đặt”, giúp 
+điều chỉnh nội dung phù hợp với đối tượng. 
+4  x   Tài liệu nêu rằng cung cấp ngữ cảnh cụ thể, như “Viết thư mời nhận việc cho kỹ thuật viên lắp đặt thiết bị nhà thông minh với mức lương 23 đô la/giờ”, giúp AI tạo nội dung chính xác, phù hợp với mục đích, 
+tránh kết quả chung chung. 
+5    x Tài liệu đưa ví dụ rằng sử dụng prompt “Viết thông cáo báo chí cho việc ra mắt bộ điều nhiệt nhà thông minh mới theo phong cách Associated Press” sẽ tạo nội dung trực tiếp, rõ ràng, phù hợp với chuẩn tin 
+tức, đáp ứng yêu cầu chuyên nghiệp của một thông cáo báo chí. 
+12 
+1 x    Tài liệu nêu rằng “few-shot prompting” cung cấp các ví dụ cụ thể để định hướng AI, giúp tăng độ chính xác và giảm sự mơ hồ trong các tác vụ như phân tích cảm xúc hoặc tạo nội dung có cấu trúc, ví dụ như 
+phân tích cảm xúc về bộ điều nhiệt thông minh. 
+2 x    Tài liệu giải thích rằng bảng thuật ngữ giúp chỉ định bản dịch đúng cho các thuật ngữ cụ thể, như dịch “smart home” thành “nhà thông minh” thay vì “nhà hiện đại”, đảm bảo độ chính xác và tính nhất quán 
+trong dịch thuật. 
+3  x   Tài liệu nêu ví dụ rằng mẫu email với các trường thay đổi như [Tên khách hàng] hoặc [Tên công ty] giúp tùy chỉnh nhanh chóng cho nhiều đối tượng (ví dụ: Stellar Advertising, New Beginnings Animal 
+Haven), đảm bảo tính nhất quán và tiết kiệm thời gian. 
+4    x Tài liệu nhấn mạnh rằng chỉ định tài liệu tham khảo, như trang web NIST hoặc tài liệu “Hướng dẫn bảo mật IoT.pdf”, giúp AI tạo nội dung đáng tin cậy, có nguồn gốc rõ ràng, đặc biệt phù hợp cho báo cáo 
+hoặc nghiên cứu yêu cầu tính minh bạch. 
+5    x Tài liệu giải thích rằng tham chiếu lịch sử trò chuyện trong cùng luồng giúp cập nhật hoặc mở rộng kết quả, ví dụ như đổi mức giảm giá từ 10% sang 25% trong mẫu email hoặc bổ sung thông tin bảo mật 
+vào tóm tắt về thiết bị nhà thông minh, tiết kiệm thời gian và đảm bảo tính nhất quán. 
+13 
+1  x   Tài liệu nêu rằng zero-shot prompting không cung cấp ngữ cảnh hay ví dụ, yêu cầu kết quả trực tiếp (ví dụ: “Tạo hình ảnh về tủ lạnh thông minh trong gia đình”), trong khi few-shot prompting cung cấp ví dụ 
+để định hướng kết quả chính xác hơn (ví dụ: phân tích cảm xúc dựa trên các bình luận mẫu). 
+2   x  Tài liệu giải thích rằng chain of thought prompting yêu cầu quy trình từng bước để đạt kết quả chi tiết, ví dụ: “Liệt kê các bước chuẩn bị lắp đặt thiết bị nhà thông minh và thời điểm thực hiện”, tạo ra danh 
+sách kiểm tra kèm thời gian thực hiện. 
+3   x  Tài liệu định nghĩa reverse prompting là kỹ thuật bắt đầu từ kết quả mong muốn để xác định các yếu tố hoặc bước cần thiết, ví dụ: “Một người hàng xóm tiết kiệm 20% hóa đơn năng lượng nhờ thiết bị nhà thông minh. 
+Những thiết bị nào có thể đã giúp họ?” để nhận danh sách các thiết bị như bóng đèn thông minh. 
+4    x Tài liệu nêu rằng self-consistency prompting chạy cùng prompt nhiều lần (ví dụ: “Mô tả một thiết bị nhà thông minh phổ biến” chạy 3 lần) để tìm điểm nhất quán trong các mô tả, như đều nhấn mạnh tính 
+tự động hóa, giúp đảm bảo độ tin cậy của kết quả. 
+5    x Tài liệu đưa ví dụ về prompt chaining, như yêu cầu 1: “Mô tả kính cửa sổ thông minh” và yêu cầu 2: “Thiết bị này giúp ích gì cho ngôi nhà của tôi?”, để đào sâu thông tin từ kết quả trước, cung cấp lợi ích 
+cụ thể như giảm nhiệt độ và tiết kiệm điện. 
+=== Page 98 ===
+ĐÁP ÁN VÀ GIẢI THÍCH CÂU HỎI ÔN TẬP  
+IIG Vietnam 91 
+Bài Câu ĐÁP ÁN GIẢI THÍCH 
+A B C D 
+14 
+1 x    Tài liệu nhấn mạnh rằng dữ liệu lịch sử từ AI cần được kiểm tra vì có thể không chính xác hoặc lỗi thời, ví dụ như danh sách gậy golf TaylorMade thiếu Milled Grind 5 Wedges (ra mắt 2025). Đối chiếu 
+với nguồn đáng tin cậy như trang web TaylorMade đảm bảo độ tin cậy. 
+2  x   Tài liệu nêu rằng thông tin hiện tại từ AI, như danh sách thiết bị nhà thông minh, có thể không phản ánh thời gian thực (ví dụ: thiếu Philips Hue Smart Bulb Gen 5 ra mắt 2025). Kiểm tra với nguồn thời 
+gian thực như Google hoặc trang web chính thức đảm bảo độ tin cậy. 
+3   x  Tài liệu đưa ví dụ rằng phép tính diện tích cabin (974 ft²) từ AI cần được tự tính lại hoặc kiểm tra bằng máy tính để xác nhận tính chính xác, đảm bảo không có sai sót trước khi sử dụng trong báo cáo hoặc 
+quyết định. 
+4 x    Tài liệu nêu ví dụ rằng giá cổ phiếu từ AI (50 USD, tháng 12/2024) có thể không chính xác so với giá thời gian thực (55 USD, xác minh qua Bloomberg). Không kiểm tra có thể dẫn đến quyết định sai lầm 
+trong kinh doanh hoặc thuyết trình. 
+5    x Tài liệu nhấn mạnh rằng xác minh số liệu thống kê, như 300 triệu hộ gia đình sử dụng thiết bị nhà thông minh (2024) so với 320 triệu (2025, từ Statista), đảm bảo thông tin chính xác cho báo cáo, duy trì 
+uy tín và tránh rủi ro từ dữ liệu sai lệch. 
+15 
+1  x   Tài liệu nêu rằng thiên lệch trong AI tạo sinh có thể xuất phát từ dữ liệu huấn luyện chứa định kiến xã hội (ví dụ: ưu tiên nam CEO) hoặc từ câu lệnh không rõ ràng của người dùng (ví dụ: “Mô tả một kỹ sư 
+phần mềm điển hình” dẫn đến mô tả thiên về nam giới trẻ tuổi). 
+2  x   Tài liệu đưa ví dụ rằng prompt “Tạo ảnh về một CEO điều hành cuộc họp” có thể dẫn đến hình ảnh nam CEO do thiên lệch trong dữ liệu huấn luyện. Điều chỉnh thành “Tạo ảnh về một nữ CEO điều hành 
+cuộc họp” giúp giảm thiểu thiên lệch giới tính và đảm bảo kết quả phù hợp. 
+3   x  Tài liệu giải thích rằng các hàng rào bảo vệ giúp lọc nội dung để bảo vệ người dùng (ví dụ: chặn nội dung không phù hợp), nhưng có thể tạo ra thiên lệch mới nếu lọc quá mức hoặc ưu tiên một nhóm đối 
+tượng, đòi hỏi người dùng nhận diện giới hạn này. 
+4   x  Tài liệu đưa ví dụ rằng để giảm thiên lệch giới tính, cần điều chỉnh prompt thành “Mô tả thiết bị nhà thông minh phản hồi đồng đều với mọi giới tính”, đảm bảo mô tả trung lập, nhấn mạnh khả năng phản 
+hồi đa dạng thay vì ưu tiên giọng nam. 
+5    x Tài liệu nêu ví dụ rằng prompt “Đề xuất kế hoạch marketing cho thiết bị nhà thông minh” có thể thiên về người trẻ, bỏ qua người cao tuổi. Điều chỉnh thành “Đề xuất kế hoạch marketing bao gồm cả người 
+cao tuổi” đảm bảo kế hoạch cân bằng, phù hợp với đa dạng đối tượng. 
+16 
+1    x Tài liệu nêu rằng để tránh vi phạm bản quyền, cần xin phép chủ sở hữu bài báo từ tạp chí hoặc sử dụng dữ liệu công khai khi huấn luyện mô hình AI hoặc tạo nội dung, nhằm đảm bảo tuân thủ quyền sở hữu 
+trí tuệ và tránh rủi ro pháp lý. 
+2    x Tài liệu đưa ví dụ rằng nội dung AI chứa thông tin sai lệch về một cá nhân có thể dẫn đến khởi kiện phỉ báng, gây thiệt hại tài chính. Giải pháp là kiểm tra tính chính xác của nội dung trước khi công bố để 
+tránh hậu quả pháp lý. 
+3   x  Tài liệu nhấn mạnh rằng tính minh bạch, như công khai cách xử lý dữ liệu và biện pháp giảm thiên lệch, giúp xây dựng niềm tin với người dùng, giảm hoài nghi và thể hiện cam kết đạo đức trong sử 
+dụng AI. 
+4   x  Tài liệu đưa ví dụ rằng sử dụng dữ liệu cá nhân từ thiết bị nhà thông minh mà không có sự đồng ý có thể vi phạm luật quyền riêng tư (như vụ phạt Facebook 5 tỷ USD). Giải pháp là đảm bảo có sự đồng ý 
+rõ ràng từ người dùng. 
+5 x    Tài liệu nêu rằng tài liệu minh bạch nên bao gồm các mục như nguồn dữ liệu, quy trình xử lý, biện pháp giảm thiên lệch và bảo vệ quyền riêng tư, ví dụ như dữ liệu từ cảm biến thiết bị nhà thông minh 
+được mã hóa và không chia sẻ với bên thứ ba. 
+17 
+1  x   Tài liệu nêu ví dụ rằng thay vì nhập “Phân tích dữ liệu bán hàng của khách hàng Nguyễn Văn A, số điện thoại 0123456789”, nên sử dụng dữ liệu ẩn danh như “Phân tích dữ liệu bán hàng của một khách 
+hàng ẩn danh” để tránh rò rỉ thông tin cá nhân và giảm rủi ro pháp lý. 
+2 x    Tài liệu định nghĩa PII là dữ liệu nhận dạng cá nhân như tên, số điện thoại, tài khoản ngân hàng, và cần tránh đưa vào mô hình AI vì có thể bị lợi dụng để đánh cắp danh tính, dẫn đến rủi ro như gian lận hoặc 
+vi phạm quyền riêng tư. 
+3 x    Tài liệu đưa ví dụ rằng sử dụng dữ liệu cá nhân từ thiết bị nhà thông minh mà không có sự đồng ý có thể vi phạm luật quyền riêng tư, dẫn đến phạt tiền lớn, như vụ Facebook bị phạt 5 tỷ USD, gây thiệt hại 
+tài chính và uy tín. 
+4  x   Tài liệu nêu ví dụ về chính sách nội bộ với 8 điểm, bao gồm không nhập PII (tên, số điện thoại) vào prompt, sử dụng dữ liệu ẩn danh và báo cáo vi phạm ngay lập tức, giúp ngăn chặn rò rỉ dữ liệu và tuân 
+thủ quy định pháp lý. 
+5   x  Tài liệu giải thích rằng để ngăn dữ liệu được sử dụng trong huấn luyện, người dùng có thể vào cài đặt tài khoản ChatGPT, chọn “Data Controls” và tắt tùy chọn “Improve the model for everyone”, đảm bảo 
+dữ liệu nhạy cảm không bị sử dụng để cải thiện mô hình. 
+=== Page 99 ===
+ĐÁP ÁN VÀ GIẢI THÍCH CÂU HỎI ÔN TẬP  
+92  IIG Vietnam 
+Bài Câu ĐÁP ÁN GIẢI THÍCH 
+A B C D 
+18 
+1   x  Tài liệu nêu rằng để tránh lan truyền thông tin sai lệch, như quảng cáo thiết bị nhà thông minh với tính năng sai, cần xác minh dữ liệu đầu ra với nguồn đáng tin cậy như báo cáo kỹ thuật trước khi công bố, 
+giúp bảo vệ uy tín và giảm rủi ro tài chính. 
+2    x Tài liệu đưa ví dụ rằng báo cáo thị trường chứa số liệu lỗi thời từ AI có thể dẫn đến quyết định kinh doanh sai lầm, gây thiệt hại tài chính. Giải pháp là áp dụng chính sách kiểm tra thông tin qua nguồn 
+đáng tin cậy như báo cáo ngành. 
+3    x Tài liệu nhấn mạnh rằng người dùng phải chịu trách nhiệm để tránh tạo nội dung dẫn đến hành vi bất hợp pháp hoặc gây hại, như deepfake hoặc đánh cắp danh tính, ví dụ: tránh tạo video deepfake của một 
+cá nhân tại sự kiện để không vi phạm quyền riêng tư. 
+4 x    Tài liệu đưa ví dụ rằng nhập PII như “Phân tích dữ liệu của Jason Manobag, địa chỉ XYZ” có thể gây rò rỉ thông tin, dẫn đến đánh cắp danh tính. Giải pháp là sử dụng dữ liệu ẩn danh để bảo vệ quyền riêng tư. 
+5  x   Tài liệu nêu rằng sinh viên sử dụng AI để viết bài luận hoàn chỉnh có thể vi phạm quy định học thuật (xác suất phát hiện 74%). Giải pháp là sử dụng AI để hỗ trợ nghiên cứu, đảm bảo tuân thủ đạo đức học 
+thuật và tránh ảnh hưởng đến điểm số hoặc uy tín. 
+19 
+1  x   Tài liệu nêu rằng một tác động tiêu cực của AI tạo sinh là giảm tương tác con người, như khi người dùng dựa vào AI để trả lời câu hỏi thay vì thảo luận với đồng nghiệp, dẫn đến suy giảm kỹ năng giao 
+tiếp xã hội. Giải pháp là cân bằng giữa sử dụng AI và giao tiếp trực tiếp. 
+2   x  Tài liệu đưa ví dụ rằng khi AI liệt kê rủi ro an ninh của thiết bị nhà thông minh, kết quả có thể phóng đại và gây hại nếu không được kiểm tra. Xác minh qua nguồn đáng tin cậy trước khi công bố giúp tránh 
+lan truyền thông tin sai lệch. 
+3    x Tài liệu nêu ví dụ rằng yêu cầu “Phân tích dữ liệu bán hàng để tìm khu vực tiếp thị tiềm năng” giúp AI xác định khu vực có nhu cầu cao về thiết bị nhà thông minh, hỗ trợ doanh nghiệp mở rộng thị trường 
+hiệu quả. 
+4 x    Tài liệu nhấn mạnh rằng khi tạo quảng cáo với câu lệnh như “Tạo quảng cáo nhấn mạnh lợi ích tiết kiệm năng lượng”, cần kiểm tra tính pháp lý và tránh thiên lệch để đảm bảo nội dung đáng tin cậy, tăng 
+uy tín thương hiệu. 
+5  x   Tài liệu đưa ví dụ rằng bất bình đẳng tiếp cận xảy ra khi khu vực nông thôn thiếu hạ tầng công nghệ. Giải pháp là đầu tư vào hạ tầng và đào tạo công nghệ cho các khu vực kém phát triển, giúp thu hẹp 
+khoảng cách số. 
+ 
+ 

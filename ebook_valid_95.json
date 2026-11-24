@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "eb_1_1",
+    "source": "E-book Bài 1",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 1,
+    "lesson_title": "ĐỊNH NGHĨA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Mục tiêu chính của tài liệu “BÀI 1: ĐỊNH NGHĨA AI TẠO SINH” là gì?",
+    "options": {
+      "A": "Cung cấp kiến thức về cách lập trình AI.",
+      "B": "Giới thiệu về AI tạo sinh và ứng dụng trong môi trường chuyên nghiệp và cá nhân.",
+      "C": "Hướng dẫn sử dụng công cụ tìm kiếm để tiếp thị thiết bị thông minh.",
+      "D": "So sánh các loại công cụ tìm kiếm."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu tập trung vào việc cung cấp kiến thức cơ bản về AI tạo sinh, đặc biệt trong bối cảnh ứng dụng cho doanh nghiệp (như quản lý thiết bị thông minh) và cá nhân, không phải về lập trình AI hay công cụ"
+  },
+  {
+    "id": "eb_1_2",
+    "source": "E-book Bài 1",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 1,
+    "lesson_title": "ĐỊNH NGHĨA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Điểm khác biệt chính giữa AI tạo sinh (Generative AI) và AI dự đoán (Predictive AI) là gì?",
+    "options": {
+      "A": "AI tạo sinh phân loại dữ liệu, còn AI dự đoán tạo nội dung mới.",
+      "B": "AI tạo sinh tạo nội dung mới, còn AI dự đoán dự báo giá trị tương lai.",
+      "C": "AI tạo sinh phân tích dữ liệu hiện có, còn AI dự đoán tạo nội dung sáng tạo.",
+      "D": "Cả hai đều tập trung vào phân loại dữ liệu."
+    },
+    "answer": "B",
+    "explanation": "AI tạo sinh tạo ra nội dung mới như văn bản, hình ảnh dựa trên câu lệnh, trong khi AI dự đoán (Predictive AI) dự báo giá trị tương lai dựa trên dữ liệu và xu hướng, ví dụ như dự báo doanh số."
+  },
+  {
+    "id": "eb_1_3",
+    "source": "E-book Bài 1",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 1,
+    "lesson_title": "ĐỊNH NGHĨA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Trong các tình huống sau, khi nào nên sử dụng AI tạo sinh thay vì công cụ tìm kiếm?",
+    "options": {
+      "A": "Khi cần tìm nhiều bài viết về lợi ích của thiết bị thông minh.",
+      "B": "Khi cần một kế hoạch tiếp thị chi tiết cho thiết bị thông minh.",
+      "C": "Khi cần so sánh các nguồn thông tin khác nhau về thiết bị thông minh.",
+      "D": "Khi cần tìm từ khóa liên quan đến thiết bị thông minh. BÀI 1: ĐỊNH NGHĨA AI TẠO SINH 4 IIG Vietnam"
+    },
+    "answer": "B",
+    "explanation": "AI tạo sinh phù hợp để tạo ra kết quả cụ thể, tùy chỉnh như một kế hoạch tiếp thị chi tiết. Công cụ tìm kiếm phù hợp hơn khi cần thu thập đa dạng thông tin hoặc so sánh nguồn dữ liệu."
+  },
+  {
+    "id": "eb_1_4",
+    "source": "E-book Bài 1",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 1,
+    "lesson_title": "ĐỊNH NGHĨA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Cấu trúc khóa học về AI tạo sinh bao gồm mấy domain chính?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "C",
+    "explanation": "Tài liệu nêu rõ khóa học bao gồm 4 domain chính: 1) Phương pháp và phương pháp luận của AI tạo sinh, 2) Kỹ thuật xây dựng prompt cơ bản, 3) Tinh chỉnh prompt, 4) Đạo đức, pháp luật và tác động xã hội của AI."
+  },
+  {
+    "id": "eb_1_5",
+    "source": "E-book Bài 1",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 1,
+    "lesson_title": "ĐỊNH NGHĨA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Ví dụ nào sau đây minh họa đúng cách sử dụng AI tạo sinh?",
+    "options": {
+      "A": "Yêu cầu ChatGPT soạn thảo một kế hoạch tiếp thị cho thiết bị thông minh.",
+      "B": "Tìm kiếm trên công cụ tìm kiếm để so sánh các mẫu kế hoạch tiếp thị.",
+      "C": "Sử dụng công cụ tìm kiếm để thu thập dữ liệu thống kê về thiết bị thông minh.",
+      "D": "Tìm kiếm trên Google với từ khóa “benefits of smart home devices” để nhận nhiều bài viết."
+    },
+    "answer": "A",
+    "explanation": "AI tạo sinh được sử dụng để tạo ra nội dung cụ thể, như yêu cầu ChatGPT soạn thảo một kế hoạch tiếp thị chi tiết. Các lựa chọn khác liên quan đến công cụ tìm kiếm, vốn cung cấp nhiều nguồn thông tin để"
+  },
+  {
+    "id": "eb_2_1",
+    "source": "E-book Bài 2",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 2,
+    "lesson_title": "CÁC QUY TRÌNH CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Phương pháp huấn luyện nào được sử dụng cho ChatGPT?",
+    "options": {
+      "A": "Học đa phương thức (Multimodal Approach).",
+      "B": "Huấn luyện trên dữ liệu hình ảnh.",
+      "C": "Học giám sát (Supervised Learning).",
+      "D": "Học không giám sát (Unsupervised Learning). IIG Vietnam 7"
+    },
+    "answer": "D",
+    "explanation": "ChatGPT được huấn luyện bằng học không giám sát, dự đoán từ tiếp theo trong câu dựa trên dữ liệu văn bản lớn, như được nêu trong tài liệu."
+  },
+  {
+    "id": "eb_2_2",
+    "source": "E-book Bài 2",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 2,
+    "lesson_title": "CÁC QUY TRÌNH CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Sự khác biệt chính giữa mô hình ngôn ngữ lớn như Google Gemini và LLM nội bộ doanh nghiệp là gì?",
+    "options": {
+      "A": "LLM nội bộ doanh nghiệp yêu cầu dữ liệu huấn luyện lớn hơn.",
+      "B": "Google Gemini chỉ xử lý văn bản, còn LLM nội bộ xử lý hình ảnh.",
+      "C": "LLM nội bộ doanh nghiệp hiệu quả với dữ liệu nhỏ hơn và phù hợp cho nhu cầu cụ thể.",
+      "D": "Google Gemini không cần GPU để xử lý."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu nêu rõ rằng LLM nội bộ doanh nghiệp hoạt động hiệu quả với lượng dữ liệu nhỏ hơn, phù hợp cho các nhu cầu cụ thể, trong khi Google Gemini yêu cầu dữ liệu huấn luyện khổng lồ."
+  },
+  {
+    "id": "eb_2_3",
+    "source": "E-book Bài 2",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 2,
+    "lesson_title": "CÁC QUY TRÌNH CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Tại sao cần kiểm chứng thông tin từ các mô hình LLM như ChatGPT?",
+    "options": {
+      "A": "Vì dữ liệu huấn luyện có thể phản ánh các quan điểm khác nhau và thiếu cập nhật thời gian thực.",
+      "B": "Vì LLM chỉ tạo ra hình ảnh, không tạo văn bản.",
+      "C": "Vì LLM chỉ sử dụng dữ liệu từ một nguồn duy nhất.",
+      "D": "Vì LLM không thể xử lý các gợi ý đa dạng."
+    },
+    "answer": "A",
+    "explanation": "LLMs như ChatGPT được huấn luyện trên dữ liệu đa dạng từ nhiều nguồn, có thể phản ánh các quan điểm khác nhau và không cập nhật thời gian thực, do đó cần kiểm chứng thông tin."
+  },
+  {
+    "id": "eb_2_4",
+    "source": "E-book Bài 2",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 2,
+    "lesson_title": "CÁC QUY TRÌNH CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Trong huấn luyện mô hình hình ảnh như Adobe Firefly, vai trò của việc gán nhãn dữ liệu là gì?",
+    "options": {
+      "A": "Giúp mô hình xử lý văn bản nhanh hơn.",
+      "B": "Tăng dung lượng RAM của GPU.",
+      "C": "Cho phép truy xuất hình ảnh theo từ khóa dựa trên cặp dữ liệu hình ảnh - văn bản.",
+      "D": "Loại bỏ sự chủ quan trong dữ liệu huấn luyện."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu giải thích rằng gán nhãn thủ công (ví dụ: gắn từ khóa như “phòng khách” cho hình ảnh) giúp mô hình hình ảnh truy xuất và tạo nội dung hình ảnh chính xác dựa trên từ khóa."
+  },
+  {
+    "id": "eb_2_5",
+    "source": "E-book Bài 2",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 2,
+    "lesson_title": "CÁC QUY TRÌNH CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Yêu cầu phần cứng nào quan trọng nhất khi huấn luyện một mô hình ngôn ngữ lớn (LLM)?",
+    "options": {
+      "A": "CPU với dung lượng RAM thấp.",
+      "B": "GPU vượt trội để xử lý song song.",
+      "C": "Ổ cứng với dung lượng lớn.",
+      "D": "Màn hình độ phân giải cao."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nhấn mạnh rằng GPU vượt trội là cần thiết để xử lý song song, giúp huấn luyện LLM nhanh hơn và tiết kiệm năng lượng so với CPU, đặc biệt khi xử lý hàng tỷ đơn vị dữ liệu."
+  },
+  {
+    "id": "eb_3_1",
+    "source": "E-book Bài 3",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 3,
+    "lesson_title": "CÁC LOẠI MÔ HÌNH VÀ THUẬT NGỮ",
+    "type": "multiple_choice",
+    "question": "Mô hình AI tạo sinh nào phù hợp nhất để tạo nội dung văn bản tự nhiên cho chatbot hỗ trợ khách hàng?",
+    "options": {
+      "A": "Mô hình khuếch tán (Diffusion).",
+      "B": "Mô hình transformer (Biến áp).",
+      "C": "Mạng đối kháng sinh (GANs).",
+      "D": "Bộ mã hóa tự biến phân (VAEs)."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rõ rằng mô hình transformer phù hợp để tạo văn bản giống con người, được sử dụng cho chatbot và hỗ trợ khách hàng, ví dụ như tạo nội dung marketing cho thiết bị nhà thông minh."
+  },
+  {
+    "id": "eb_3_2",
+    "source": "E-book Bài 3",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 3,
+    "lesson_title": "CÁC LOẠI MÔ HÌNH VÀ THUẬT NGỮ",
+    "type": "multiple_choice",
+    "question": "Vai trò chính của mạng nơ-ron tích chập (CNNs) trong AI tạo sinh là gì?",
+    "options": {
+      "A": "Phân tách câu thành từ hoặc cụm từ.",
+      "B": "Tạo nội dung văn bản tự nhiên.",
+      "C": "Phát hiện bất thường trong quy trình sản xuất.",
+      "D": "Nhận diện đặc điểm hình ảnh như khuôn mặt hoặc màu sắc."
+    },
+    "answer": "D",
+    "explanation": "Theo tài liệu, mạng nơ-ron tích chập (CNNs) chuyên phân loại hình ảnh, nhận diện đặc điểm như khuôn mặt (màu da, mắt, mũi) bằng cách chia ảnh thành lưới."
+  },
+  {
+    "id": "eb_3_3",
+    "source": "E-book Bài 3",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 3,
+    "lesson_title": "CÁC LOẠI MÔ HÌNH VÀ THUẬT NGỮ",
+    "type": "multiple_choice",
+    "question": "Thuật ngữ “khuếch tán” (Diffusion) trong AI tạo sinh liên quan đến quá trình nào?",
+    "options": {
+      "A": "Phân tách câu thành các token để xử lý văn bản.",
+      "B": "Tạo hình đại diện cho quảng cáo hoặc thiết kế.",
+      "C": "Thêm nhiễu ngẫu nhiên vào dữ liệu để khôi phục ảnh chất lượng cao.",
+      "D": "Phát hiện bất thường trong dữ liệu sản xuất."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu giải thích rằng khuếch tán (Diffusion) và sinh nhiễu (Noise Generation) liên quan đến việc thêm nhiễu ngẫu nhiên vào dữ liệu (ảnh) trong huấn luyện để mô hình học khôi phục ảnh chất lượng"
+  },
+  {
+    "id": "eb_3_4",
+    "source": "E-book Bài 3",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 3,
+    "lesson_title": "CÁC LOẠI MÔ HÌNH VÀ THUẬT NGỮ",
+    "type": "multiple_choice",
+    "question": "Siêu tham số (Hyperparameter) trong huấn luyện mô hình AI tạo sinh có vai trò gì?",
+    "options": {
+      "A": "Gán trọng số để điều chỉnh đầu ra của mô hình.",
+      "B": "Quyết định tốc độ và hiệu quả học của mô hình.",
+      "C": "Cải thiện dần đầu ra bằng cách khử nhiễu.",
+      "D": "Lưu trữ dữ liệu dùng để huấn luyện mô hình."
+    },
+    "answer": "B",
+    "explanation": "Theo tài liệu, siêu tham số là các tham số được thiết lập trước huấn luyện, quyết định tốc độ và hiệu quả học của mô hình, ví dụ như đặt tốc độ học để tối ưu hóa tiết kiệm năng lượng cho thiết bị thông minh."
+  },
+  {
+    "id": "eb_3_5",
+    "source": "E-book Bài 3",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 3,
+    "lesson_title": "CÁC LOẠI MÔ HÌNH VÀ THUẬT NGỮ",
+    "type": "multiple_choice",
+    "question": "Ứng dụng nào sau đây phù hợp nhất với mô hình bộ mã hóa tự biến phân (VAEs)?",
+    "options": {
+      "A": "Tạo nội dung marketing cho thiết bị thông minh.",
+      "B": "Tạo hình đại diện cho quảng cáo.",
+      "C": "Phát hiện bất thường trong sản xuất bộ điều chỉnh nhiệt thông minh.",
+      "D": "Cải thiện chất lượng hình ảnh từ độ phân giải thấp."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu chỉ rõ rằng bộ mã hóa tự biến phân (VAEs) được sử dụng để phát hiện bất thường trong dữ liệu, như lỗi trong quy trình sản xuất bộ điều chỉnh nhiệt thông minh (ví dụ: sản lượng bất thường 5"
+  },
+  {
+    "id": "eb_4_1",
+    "source": "E-book Bài 4",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 4,
+    "lesson_title": "CÁC LOẠI ĐẦU VÀO, ĐẦU RA, AI TẠO SINH VÀ NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Mục đích chính của việc kết hợp đa dạng loại đầu vào (văn bản, hình ảnh, âm thanh) trong AI tạo sinh là gì?",
+    "options": {
+      "A": "Tăng tốc độ xử lý dữ liệu.",
+      "B": "Tối ưu hóa chất lượng đầu ra phù hợp với mục đích cụ thể.",
+      "C": "Giảm chi phí sử dụng công cụ AI.",
+      "D": "Hỗ trợ chuyển đổi âm thanh thành video."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rõ rằng kết hợp đa dạng đầu vào (văn bản, hình ảnh, âm thanh, video) giúp tối ưu hóa chất lượng đầu ra, phù hợp với mục đích cụ thể, như tạo chú thích văn bản từ hình ảnh hoặc thông tin từ âm thanh."
+  },
+  {
+    "id": "eb_4_2",
+    "source": "E-book Bài 4",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 4,
+    "lesson_title": "CÁC LOẠI ĐẦU VÀO, ĐẦU RA, AI TẠO SINH VÀ NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Công cụ AI tạo sinh nào dưới đây có thể xử lý đầu vào âm thanh để chuyển thành văn bản và cung cấp thông tin liên quan?",
+    "options": {
+      "A": "ChatGPT.",
+      "B": "Adobe Firefly.",
+      "C": "Google Gemini.",
+      "D": "Microsoft Copilot."
+    },
+    "answer": "C",
+    "explanation": "Theo tài liệu, Google Gemini hỗ trợ sử dụng micro để nói (ví dụ: “Smart Home Devices Save Energy”) và chuyển lời nói thành văn bản, sau đó cung cấp thông tin liên quan. ChatGPT không hỗ trợ trực tiếp"
+  },
+  {
+    "id": "eb_4_3",
+    "source": "E-book Bài 4",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 4,
+    "lesson_title": "CÁC LOẠI ĐẦU VÀO, ĐẦU RA, AI TẠO SINH VÀ NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng ChatGPT với đầu vào là hình ảnh và văn bản, kết quả đầu ra thường là gì?",
+    "options": {
+      "A": "Chú thích văn bản.",
+      "B": "Hình ảnh tạo sinh.",
+      "C": "Âm thanh tạo sinh.",
+      "D": "Video tạo sinh."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu đưa ví dụ về việc sử dụng ChatGPT với đầu vào là hình ảnh (bộ điều chỉnh nhiệt thông minh) và văn bản (“Generate a caption for this image”) để tạo ra chú thích văn bản, không phải hình ảnh, âm"
+  },
+  {
+    "id": "eb_4_4",
+    "source": "E-book Bài 4",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 4,
+    "lesson_title": "CÁC LOẠI ĐẦU VÀO, ĐẦU RA, AI TẠO SINH VÀ NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Ứng dụng AI tạo sinh độc lập như Microsoft Copilot có vai trò gì trong việc thực hiện tác vụ?",
+    "options": {
+      "A": "Chỉ hỗ trợ tạo hình ảnh từ văn bản.",
+      "B": "Tích hợp nhiều chức năng để tiết kiệm thời gian và tối ưu hóa quy trình.",
+      "C": "Chỉ xử lý dữ liệu văn bản.",
+      "D": "Thay thế hoàn toàn các công cụ tìm kiếm."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu giải thích rằng các ứng dụng độc lập như Microsoft Copilot được tùy chỉnh để thực hiện các tác vụ cụ thể, tích hợp nhiều chức năng trong một nền tảng duy nhất, giúp tiết kiệm thời gian và tối ưu"
+  },
+  {
+    "id": "eb_4_5",
+    "source": "E-book Bài 4",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 4,
+    "lesson_title": "CÁC LOẠI ĐẦU VÀO, ĐẦU RA, AI TẠO SINH VÀ NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Trong ví dụ sử dụng Microsoft Copilot, tác vụ nào sau đây thuộc về việc lọc kết quả dựa trên tiêu chí cụ thể?",
+    "options": {
+      "A": "Nói “Hiển thị 10 nhà hàng hàng đầu tại Hà Nội”.",
+      "B": "Yêu cầu “Hiển thị thêm thông tin về nhà hàng số bốn”.",
+      "C": "Nói “Hiển thị những nhà hàng ngon nhất ở Hà Nội với mức giá dưới 2.000.000 VNĐ”.",
+      "D": "Tải ảnh nhà hàng và yêu cầu tạo chú thích. BÀI 4: CÁC LOẠI ĐẦU VÀO, ĐẦU RA, AI TẠO SINH VÀ NHIỆM VỤ 14 IIG Vietnam"
+    },
+    "answer": "C",
+    "explanation": "Tài liệu đưa ví dụ rằng nói “Hiển thị những nhà hàng ngon nhất ở Hà Nội với mức giá dưới 2.000.000 VNĐ” là tác vụ lọc kết quả dựa trên tiêu chí cụ thể (giá cả), trong khi các lựa chọn khác liên quan đến"
+  },
+  {
+    "id": "eb_5_1",
+    "source": "E-book Bài 5",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 5,
+    "lesson_title": "CHỌN MỘT CÔNG CỤ CHO MỘT NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Công cụ AI tạo sinh nào phù hợp nhất để thiết kế banner quảng cáo cho thiết bị nhà thông minh?",
+    "options": {
+      "A": "Microsoft Copilot.",
+      "B": "Adobe Express.",
+      "C": "Google Gemini.",
+      "D": "Claude."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rõ rằng Adobe Express được sử dụng để thiết kế đồ họa, video và nội dung truyền thông xã hội, ví dụ như tạo banner quảng cáo cho thiết bị nhà thông minh. Các công cụ khác như Microsoft"
+  },
+  {
+    "id": "eb_5_2",
+    "source": "E-book Bài 5",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 5,
+    "lesson_title": "CHỌN MỘT CÔNG CỤ CHO MỘT NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng Microsoft Copilot trong Microsoft Word, chức năng chính của công cụ này là gì?",
+    "options": {
+      "A": "Tạo hình ảnh từ văn bản.",
+      "B": "Xây dựng mô hình AI tùy chỉnh.",
+      "C": "Gợi ý và hoàn thiện câu văn nhanh chóng.",
+      "D": "Tạo bài đăng mạng xã hội."
+    },
+    "answer": "C",
+    "explanation": "Theo tài liệu, Microsoft Copilot trong Word hỗ trợ câu lệnh cụm từ tiếp theo khi người dùng nhập văn bản (ví dụ: “I am here to explain what AI tạo sinh is…”), giúp hoàn thiện câu văn nhanh chóng."
+  },
+  {
+    "id": "eb_5_3",
+    "source": "E-book Bài 5",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 5,
+    "lesson_title": "CHỌN MỘT CÔNG CỤ CHO MỘT NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Yếu tố nào sau đây quan trọng nhất khi lựa chọn công cụ AI tạo sinh trong môi trường doanh nghiệp nhạy cảm về bảo mật?",
+    "options": {
+      "A": "Chi phí thấp.",
+      "B": "Quyền riêng tư và bảo mật, sử dụng giao thức mã hóa.",
+      "C": "Độ dễ sử dụng của giao diện.",
+      "D": "Khả năng tạo hình ảnh chất lượng cao."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nhấn mạnh rằng trong môi trường doanh nghiệp nhạy cảm về bảo mật, cần chọn công cụ không lưu trữ dữ liệu cá nhân và sử dụng giao thức mã hóa (như HTTPS), đồng thời có cơ chế ngăn chặn truy"
+  },
+  {
+    "id": "eb_5_4",
+    "source": "E-book Bài 5",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 5,
+    "lesson_title": "CHỌN MỘT CÔNG CỤ CHO MỘT NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Công cụ nào trong số các công cụ sau đây phù hợp nhất để tạo hình ảnh minh họa từ văn bản “A smart thermostat in a modern living room”?",
+    "options": {
+      "A": "Stable Diffusion.",
+      "B": "Meta GPT.",
+      "C": "Microsoft Azure AI Studio.",
+      "D": "Canva."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu chỉ rõ rằng Stable Diffusion được thiết kế để tạo hình ảnh từ văn bản, ví dụ như nhập “A smart thermostat in a modern living room” để tạo hình ảnh minh họa, trong khi các công cụ khác tập trung"
+  },
+  {
+    "id": "eb_5_5",
+    "source": "E-book Bài 5",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 5,
+    "lesson_title": "CHỌN MỘT CÔNG CỤ CHO MỘT NHIỆM VỤ",
+    "type": "multiple_choice",
+    "question": "Tại sao nên ưu tiên công cụ AI tạo sinh có khả năng tùy biến trong môi trường doanh nghiệp?",
+    "options": {
+      "A": "Để giảm chi phí sử dụng.",
+      "B": "Để điều chỉnh phản hồi phù hợp với nhu cầu cụ thể, như phản hồi khách hàng.",
+      "C": "Để tạo nội dung hình ảnh chất lượng cao.",
+      "D": "Để đảm bảo công cụ luôn miễn phí."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu giải thích rằng trong môi trường doanh nghiệp, khả năng tùy biến của công cụ AI (như điều chỉnh phản hồi khách hàng hoặc thiết lập chuỗi dừng) là cần thiết để đáp ứng các nhu cầu cụ thể, giúp"
+  },
+  {
+    "id": "eb_6_1",
+    "source": "E-book Bài 6",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 6,
+    "lesson_title": "NHỮNG HẠN CHẾ CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Tại sao đầu ra của AI tạo sinh có thể không đáng tin cậy?",
+    "options": {
+      "A": "Do sử dụng GPU không đủ mạnh.",
+      "B": "Do thông tin nhạy cảm về thời gian có thể không được cập nhật.",
+      "C": "Do công cụ AI không hỗ trợ kết nối internet.",
+      "D": "Do thiếu dữ liệu hình ảnh trong huấn luyện."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng các mô hình ngôn ngữ lớn (LLMs) có thể cung cấp thông tin không cập nhật, ví dụ như bỏ sót các mẫu bộ điều chỉnh nhiệt thông minh mới, dẫn đến đầu ra không đáng tin cậy, đặc biệt"
+  },
+  {
+    "id": "eb_6_2",
+    "source": "E-book Bài 6",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 6,
+    "lesson_title": "NHỮNG HẠN CHẾ CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "“Ảo giác” (Hallucinations) trong đầu ra của AI tạo sinh là gì?",
+    "options": {
+      "A": "Thông tin sai lệch cố ý nhằm đánh lừa người dùng.",
+      "B": "Thiên kiến từ dữ liệu đầu vào thiếu đa dạng.",
+      "C": "Kết quả sai lệch do cơ chế dự đoán từ tiếp theo, không dựa trên dữ liệu thực tế.",
+      "D": "Kết quả không nhất quán do sử dụng GPU yếu."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu định nghĩa “ảo giác” là kết quả sai lệch do cơ chế dự đoán từ tiếp theo của LLM, không dựa trên dữ liệu thực tế, ví dụ như mô tả một trận chiến lịch sử chưa từng xảy ra."
+  },
+  {
+    "id": "eb_6_3",
+    "source": "E-book Bài 6",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 6,
+    "lesson_title": "NHỮNG HẠN CHẾ CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Yêu cầu nào sau đây là cần thiết để đảm bảo hiệu quả hoạt động của các mô hình ngôn ngữ lớn (LLMs)?",
+    "options": {
+      "A": "Sử dụng ổ cứng dung lượng lớn thay vì GPU.",
+      "B": "Kết nối internet tốc độ cao để truy cập dữ liệu đám mây.",
+      "C": "Sử dụng màn hình độ phân giải cao.",
+      "D": "Tắt các thiết lập bảo mật của công cụ AI."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nhấn mạnh rằng LLMs yêu cầu kết nối internet tốc độ cao để truy cập và xử lý dữ liệu lưu trữ trên đám mây, ví dụ như khi phân tích dữ liệu tiêu thụ điện từ bộ dữ liệu công cộng."
+  },
+  {
+    "id": "eb_6_4",
+    "source": "E-book Bài 6",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 6,
+    "lesson_title": "NHỮNG HẠN CHẾ CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Để bảo vệ quyền riêng tư khi sử dụng AI tạo sinh như ChatGPT, người dùng nên làm gì?",
+    "options": {
+      "A": "Nhập thông tin cá nhân để kiểm tra chất lượng đầu ra.",
+      "B": "Tắt hoàn toàn kết nối internet khi sử dụng.",
+      "C": "Kiểm tra và điều chỉnh thiết lập bảo mật, tránh nhập thông tin cá nhân.",
+      "D": "Sử dụng công cụ mà không cần kiểm tra dữ liệu đầu vào."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu khuyến nghị người dùng kiểm tra các thiết lập bảo mật (như xóa lịch sử trò chuyện hoặc bật xác thực đa yếu tố) và tránh nhập thông tin cá nhân để bảo vệ quyền riêng tư khi sử dụng ChatGPT."
+  },
+  {
+    "id": "eb_6_5",
+    "source": "E-book Bài 6",
+    "domain_id": 1,
+    "domain_name": "Phương pháp và mô hình Generative AI",
+    "lesson_id": 6,
+    "lesson_title": "NHỮNG HẠN CHẾ CỦA AI TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Làm thế nào để giảm thiểu hạn chế về tính nhất quán của đầu ra AI tạo sinh?",
+    "options": {
+      "A": "Sử dụng prompt mơ hồ để tạo ra nhiều kết quả khác nhau.",
+      "B": "Viết prompt rõ ràng, cụ thể và tinh chỉnh khi cần.",
+      "C": "Tăng cường sử dụng dữ liệu hình ảnh thay vì văn bản.",
+      "D": "Giảm tốc độ kết nối internet để kiểm soát đầu ra. IIG Vietnam 23"
+    },
+    "answer": "B",
+    "explanation": "Tài liệu giải thích rằng viết prompt rõ ràng, cụ thể và tinh chỉnh khi cần (ví dụ: từ “Giải thích một thiết bị nhà thông minh” sang “Giải thích về đèn thông minh Philips Hue”) giúp giảm thiểu sự không nhất"
+  },
+  {
+    "id": "eb_7_1",
+    "source": "E-book Bài 7",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 7,
+    "lesson_title": "XÁC ĐỊNH CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Để đảm bảo prompt hiệu quả khi sử dụng AI tạo sinh, bước đầu tiên cần làm là gì?",
+    "options": {
+      "A": "Sử dụng nguồn dữ liệu ngẫu nhiên từ internet.",
+      "B": "Xác định mục tiêu cụ thể của prompt.",
+      "C": "Tóm tắt nội dung từ nhiều trang web.",
+      "D": "Viết prompt mơ hồ để nhận nhiều kết quả."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nhấn mạnh rằng việc xác định mục tiêu cụ thể của prompt là bước quan trọng đầu tiên để thu thập thông tin liên quan, ví dụ như thu thập chi tiết về tính năng, giá cả và đối tượng khách hàng khi tạo"
+  },
+  {
+    "id": "eb_7_2",
+    "source": "E-book Bài 7",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 7,
+    "lesson_title": "XÁC ĐỊNH CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Khi yêu cầu AI tóm tắt nội dung từ một trang web, ví dụ như “Tóm tắt trang LearnKey.com”, kết quả đầu ra sẽ là gì?",
+    "options": {
+      "A": "Một bản tóm tắt ngắn gọn về nội dung chính của trang web.",
+      "B": "Một danh sách các tính năng sản phẩm.",
+      "C": "Một tagline quảng cáo cho trang web.",
+      "D": "Một bài viết chi tiết về lịch sử trang web."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nêu rõ rằng AI có thể tóm tắt nội dung từ các trang web, như khi nhập “Tóm tắt trang LearnKey.com” vào ChatGPT, kết quả sẽ là một bản tóm tắt ngắn gọn về nội dung chính của trang."
+  },
+  {
+    "id": "eb_7_3",
+    "source": "E-book Bài 7",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 7,
+    "lesson_title": "XÁC ĐỊNH CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Làm thế nào để tránh đầu ra không mong muốn khi sử dụng AI tạo sinh?",
+    "options": {
+      "A": "Sử dụng prompt mơ hồ để tăng tính sáng tạo.",
+      "B": "Tóm tắt nội dung trước khi nhập dữ liệu.",
+      "C": "Sử dụng nguồn dữ liệu không được kiểm chứng.",
+      "D": "Tổ chức thông tin rõ ràng và viết prompt cụ thể."
+    },
+    "answer": "D",
+    "explanation": "Theo tài liệu, tổ chức thông tin rõ ràng và viết prompt cụ thể (ví dụ: “Mô tả các tính năng nổi bật của iPhone 16 dựa trên thông báo chính thức từ Apple vào tháng 9/2025”) giúp giảm thiểu đầu ra không"
+  },
+  {
+    "id": "eb_7_4",
+    "source": "E-book Bài 7",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 7,
+    "lesson_title": "XÁC ĐỊNH CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Công cụ AI tạo sinh có thể hỗ trợ phát triển ý tưởng như thế nào?",
+    "options": {
+      "A": "Thay thế hoàn toàn quá trình sáng tạo của con người.",
+      "B": "Đề xuất các ý tưởng sáng tạo dựa trên yêu cầu cụ thể, như tagline cho brochure.",
+      "C": "Chỉ tóm tắt nội dung từ các nguồn có sẵn.",
+      "D": "Tạo nội dung không liên quan đến yêu cầu của người dùng."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu giải thích rằng AI tạo sinh có thể đề xuất ý tưởng sáng tạo, ví dụ như nhập “Hãy cho tôi ý tưởng viết tagline dài hai đoạn cho brochure về thiết bị nhà thông minh” vào ChatGPT để nhận các gợi"
+  },
+  {
+    "id": "eb_7_5",
+    "source": "E-book Bài 7",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 7,
+    "lesson_title": "XÁC ĐỊNH CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Khi yêu cầu AI liệt kê thông tin theo định dạng cụ thể, ví dụ như danh sách gạch đầu dòng, mục đích là gì?",
+    "options": {
+      "A": "Tăng độ phức tạp của nội dung.",
+      "B": "Giảm chất lượng đầu ra của AI.",
+      "C": "Hỗ trợ phát triển nội dung dễ sử dụng, như cho brochure.",
+      "D": "Tóm tắt nội dung từ nhiều nguồn."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu nêu ví dụ rằng nhập “Liệt kê các tính năng phổ biến của tủ lạnh thông minh theo dạng gạch đầu dòng” sẽ tạo ra danh sách chi tiết, dễ sử dụng để phát triển nội dung, như cho brochure quảng cáo."
+  },
+  {
+    "id": "eb_8_1",
+    "source": "E-book Bài 8",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 8,
+    "lesson_title": "CÂU LỆNH ĐỂ CHUYỂN ĐỔI NỘI DUNG",
+    "type": "multiple_choice",
+    "question": "Để nhận dữ liệu về số lượng thiết bị thông minh trong các hộ gia đình dưới dạng bảng, người dùng nên làm gì?",
+    "options": {
+      "A": "Nhập prompt mơ hồ như “Cung cấp dữ liệu về thiết bị thông minh”.",
+      "B": "Yêu cầu cụ thể như “Trình bày dữ liệu về số lượng thiết bị thông minh từ năm 2020-2025 dưới dạng bảng”. BÀI 8: CÂU LỆNH ĐỂ CHUYỂN ĐỔI NỘI DUNG 32 IIG Vietnam",
+      "C": "Yêu cầu AI tạo biểu đồ cột thay vì bảng.",
+      "D": "Tóm tắt dữ liệu trước khi yêu cầu định dạng."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu ví dụ rằng để nhận dữ liệu dưới dạng bảng, cần sử dụng câu lệnh cụ thể như “Trình bày dữ liệu về số lượng thiết bị thông minh từ năm 2020-2025 dưới dạng bảng” để đảm bảo kết quả phù hợp"
+  },
+  {
+    "id": "eb_8_2",
+    "source": "E-book Bài 8",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 8,
+    "lesson_title": "CÂU LỆNH ĐỂ CHUYỂN ĐỔI NỘI DUNG",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng AI để chỉnh sửa văn bản, làm thế nào để đảm bảo nội dung phù hợp với người mới sử dụng AI?",
+    "options": {
+      "A": "Yêu cầu chỉnh sửa chung chung như “Chỉnh sửa văn bản này”.",
+      "B": "Chỉ yêu cầu rà soát lỗi chính tả.",
+      "C": "Yêu cầu AI dịch văn bản sang ngôn ngữ khác.",
+      "D": "Yêu cầu cụ thể như “Chỉnh sửa văn bản theo phong cách thân thiện, dễ hiểu cho người mới sử dụng AI”."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu đưa ví dụ rằng yêu cầu cụ thể như “Chỉnh sửa văn bản này theo phong cách thân thiện, dễ hiểu cho người mới sử dụng AI” sẽ giúp AI điều chỉnh nội dung phù hợp với đối tượng mục tiêu, ví dụ như"
+  },
+  {
+    "id": "eb_8_3",
+    "source": "E-book Bài 8",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 8,
+    "lesson_title": "CÂU LỆNH ĐỂ CHUYỂN ĐỔI NỘI DUNG",
+    "type": "multiple_choice",
+    "question": "Để trực quan hóa dữ liệu bằng hình ảnh, điều gì là quan trọng khi soạn prompt cho AI?",
+    "options": {
+      "A": "Chỉ định rõ ràng yêu cầu tạo hình ảnh hoặc biểu đồ.",
+      "B": "Sử dụng prompt mơ hồ để tăng tính sáng tạo.",
+      "C": "Yêu cầu AI tóm tắt dữ liệu trước khi trực quan hóa.",
+      "D": "Sử dụng dữ liệu từ nhiều nguồn không liên quan."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nhấn mạnh rằng prompt cần cụ thể, ví dụ như “Dùng hình ảnh để thể hiện nội dung” hoặc “Tạo hình ảnh nội thất ngôi nhà với các thiết bị gia dụng thông minh” để đảm bảo AI tạo ra kết quả trực quan"
+  },
+  {
+    "id": "eb_8_4",
+    "source": "E-book Bài 8",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 8,
+    "lesson_title": "CÂU LỆNH ĐỂ CHUYỂN ĐỔI NỘI DUNG",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng AI để dịch mô tả sản phẩm sang ngôn ngữ khác, bước nào là cần thiết để đảm bảo độ chính xác?",
+    "options": {
+      "A": "Nhập prompt mơ hồ để nhận nhiều bản dịch khác nhau.",
+      "B": "Chỉ sử dụng bản dịch từ một công cụ AI duy nhất.",
+      "C": "Kiểm tra bản dịch bởi người có kinh nghiệm hoặc người bản ngữ.",
+      "D": "Bỏ qua việc kiểm tra vì AI luôn chính xác."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu lưu ý rằng bản dịch AI có thể thiếu chính xác về ý nghĩa hoặc ngữ cảnh, do đó cần người có kinh nghiệm hoặc người bản ngữ kiểm tra lại, ví dụ như chỉnh sửa bản dịch tiếng Tây Ban Nha về nhiệt"
+  },
+  {
+    "id": "eb_8_5",
+    "source": "E-book Bài 8",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 8,
+    "lesson_title": "CÂU LỆNH ĐỂ CHUYỂN ĐỔI NỘI DUNG",
+    "type": "multiple_choice",
+    "question": "Làm thế nào để AI tạo nội dung phù hợp với học sinh lớp 8 khi giải thích về khóa cửa thông minh?",
+    "options": {
+      "A": "Yêu cầu giải thích chi tiết từ góc độ kỹ thuật bảo mật.",
+      "B": "Nhập prompt “Giải thích quy trình gửi cảnh báo từ ứng dụng đến khóa cửa thông minh cho học sinh lớp 8”.",
+      "C": "Yêu cầu AI tạo biểu đồ về quy trình gửi cảnh báo.",
+      "D": "Sử dụng prompt chung như “Giải thích về khóa cửa thông minh”."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu ví dụ rằng để cá nhân hóa nội dung cho học sinh lớp 8, cần sử dụng prompt cụ thể như “Giải thích quy trình gửi cảnh báo từ ứng dụng đến khóa cửa thông minh cho học sinh lớp 8” để nhận"
+  },
+  {
+    "id": "eb_9_1",
+    "source": "E-book Bài 9",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 9,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN HÌNH ẢNH",
+    "type": "multiple_choice",
+    "question": "Để tạo hình ảnh máy điều nhiệt thông minh hiển thị nhiệt độ theo độ Celsius thay vì độ Fahrenheit, người dùng nên làm gì?",
+    "options": {
+      "A": "Chỉ định rõ ràng trong prompt như “Tạo hình ảnh máy điều nhiệt thông minh gắn trên tường trong văn phòng với nhiệt độ hiển thị theo độ Celsius”.",
+      "B": "Nhập prompt chung như “Tạo hình ảnh máy điều nhiệt thông minh”.",
+      "C": "Yêu cầu AI tự động chọn đơn vị nhiệt độ.",
+      "D": "Sử dụng công cụ chỉnh sửa ảnh chuyên nghiệp ngay từ đầu."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nhấn mạnh rằng cần tinh chỉnh prompt cụ thể, ví dụ như “Tạo hình ảnh máy điều nhiệt thông minh gắn trên tường trong văn phòng với nhiệt độ hiển thị theo độ Celsius”, để đảm bảo hình ảnh phản"
+  },
+  {
+    "id": "eb_9_2",
+    "source": "E-book Bài 9",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 9,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN HÌNH ẢNH",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng AI để áp dụng hiệu ứng nghệ thuật, kết quả từ Google Gemini với prompt “Làm cho bức ảnh này trông giống một bức tranh màu nước” sẽ như thế nào?",
+    "options": {
+      "A": "Tạo một hình ảnh hoàn toàn mới không liên quan đến ảnh gốc.",
+      "B": "Biến đổi ảnh hiện có thành phiên bản với hiệu ứng màu nước.",
+      "C": "Chỉ cung cấp mô tả văn bản về phong cách màu nước.",
+      "D": "Yêu cầu sử dụng công cụ Photoshop để áp dụng hiệu ứng. IIG Vietnam 37"
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng nhập “Làm cho bức ảnh này trông giống một bức tranh màu nước” vào Google Gemini sẽ biến đổi ảnh hiện có thành phiên bản với hiệu ứng màu nước, mặc dù kết quả có thể khác"
+  },
+  {
+    "id": "eb_9_3",
+    "source": "E-book Bài 9",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 9,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN HÌNH ẢNH",
+    "type": "multiple_choice",
+    "question": "Tại sao cần ghi nguồn hình ảnh do AI tạo sinh trong các ấn phẩm?",
+    "options": {
+      "A": "Để tăng tính thẩm mỹ của ấn phẩm.",
+      "B": "Để giảm chi phí sử dụng công cụ AI.",
+      "C": "Để tránh vi phạm bản quyền và đảm bảo minh bạch.",
+      "D": "Để đảm bảo hình ảnh có độ phân giải cao."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu khuyến nghị ghi rõ nguồn hình ảnh, ví dụ “Hình ảnh được tạo bởi Google Gemini”, trong các ấn phẩm hoặc brochure để đảm bảo minh bạch và tránh rủi ro pháp lý liên quan đến bản quyền."
+  },
+  {
+    "id": "eb_9_4",
+    "source": "E-book Bài 9",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 9,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN HÌNH ẢNH",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng AI để thêm biểu tượng gia dụng thông minh vào hình ảnh, điều gì có thể xảy ra nếu prompt không rõ ràng?",
+    "options": {
+      "A": "Kết quả sẽ luôn chính xác và đồng nhất.",
+      "B": "Hình ảnh có thể trở nên rối hoặc không đúng ý.",
+      "C": "AI sẽ tự động sử dụng công cụ chỉnh sửa ảnh chuyên nghiệp.",
+      "D": "Kết quả sẽ chỉ là mô tả văn bản thay vì hình ảnh."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu lưu ý rằng nếu prompt không rõ ràng, việc thêm nội dung như biểu tượng gia dụng thông minh có thể tạo ra kết quả rối hoặc không đồng nhất, ví dụ như màu sắc khung không thống nhất, đòi hỏi"
+  },
+  {
+    "id": "eb_9_5",
+    "source": "E-book Bài 9",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 9,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN HÌNH ẢNH",
+    "type": "multiple_choice",
+    "question": "Khi yêu cầu AI mô tả phong cách của một ngôi nhà trong hình ảnh, kết quả đầu ra sẽ là gì?",
+    "options": {
+      "A": "Một hình ảnh mới của ngôi nhà với phong cách khác.",
+      "B": "Một biểu đồ về các phong cách kiến trúc.",
+      "C": "Siêu dữ liệu về ngày chụp và thiết bị.",
+      "D": "Thông tin về kiểu kiến trúc và bối cảnh lịch sử của ngôi nhà."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu giải thích rằng sử dụng prompt như “Phong cách của ngôi nhà này là gì” sẽ khiến AI cung cấp thông tin về kiểu kiến trúc và bối cảnh lịch sử của ngôi nhà trong ảnh, không phải hình ảnh mới, biểu"
+  },
+  {
+    "id": "eb_10_1",
+    "source": "E-book Bài 10",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 10,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN VIDEO",
+    "type": "multiple_choice",
+    "question": "Để tạo video 5 giây từ hình ảnh tĩnh của một con thuyền di chuyển ngang trên mặt nước, người dùng nên làm gì?",
+    "options": {
+      "A": "Nhập prompt mơ hồ như “Tạo video con thuyền”.",
+      "B": "Sử dụng prompt cụ thể như “Tạo video 5 giây với con thuyền di chuyển ngang trên mặt nước, không âm thanh”.",
+      "C": "Chỉ yêu cầu thêm hiệu ứng màu nước cho hình ảnh tĩnh.",
+      "D": "Sử dụng công cụ chỉnh sửa video chuyên nghiệp ngay từ đầu."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng để tạo video từ hình ảnh tĩnh, cần sử dụng prompt cụ thể như “Tạo video 5 giây với con thuyền di chuyển ngang trên mặt nước, không âm thanh” trong InVideo AI để đảm bảo kết quả"
+  },
+  {
+    "id": "eb_10_2",
+    "source": "E-book Bài 10",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 10,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN VIDEO",
+    "type": "multiple_choice",
+    "question": "Nội suy hình ảnh trong AI tạo sinh có vai trò gì?",
+    "options": {
+      "A": "Thêm khung hình để tăng độ mượt và cải thiện chất lượng video.",
+      "B": "Tự động thêm phụ đề vào video.",
+      "C": "Tạo hình nhân vật đọc kịch bản.",
+      "D": "Xóa các đối tượng không mong muốn khỏi video."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu giải thích rằng nội suy là quá trình thêm khung hình để tăng độ mượt và chất lượng video, ví dụ như áp dụng nội suy để làm mượt chuyển động của video con thuyền hoặc cải thiện độ sắc nét của"
+  },
+  {
+    "id": "eb_10_3",
+    "source": "E-book Bài 10",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 10,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN VIDEO",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng AI để tô màu video đen trắng, hạn chế chính của công cụ miễn phí là gì?",
+    "options": {
+      "A": "Không thể thêm màu vào video.",
+      "B": "Chỉ hỗ trợ video độ phân giải cao.",
+      "C": "Giới hạn tín dụng, yêu cầu trả phí cho tác vụ phức tạp.",
+      "D": "Tự động thêm âm thanh không mong muốn."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu lưu ý rằng các công cụ miễn phí như editingtools.io có giới hạn tín dụng (ví dụ: 8 credit miễn phí nhưng cần 14 credit để tô màu video 6 giây), đòi hỏi người dùng trả phí để thực hiện các tác vụ"
+  },
+  {
+    "id": "eb_10_4",
+    "source": "E-book Bài 10",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 10,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN VIDEO",
+    "type": "multiple_choice",
+    "question": "Để tạo video quảng cáo với hình nhân vật đọc kịch bản về giảm giá thiết bị nhà thông minh, người dùng nên làm gì?",
+    "options": {
+      "A": "Nhập prompt “Tạo video quảng cáo” mà không chọn avatar.",
+      "B": "Chọn avatar như “GIA Business” và nhập kịch bản cụ thể trong elai.io.",
+      "C": "Yêu cầu AI tự động thêm phụ đề mà không xem trước.",
+      "D": "Sử dụng Adobe Premiere để tạo nhân vật từ đầu."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu ví dụ rằng trong elai.io, người dùng nên chọn avatar như “GIA Business” và nhập kịch bản cụ thể như “Tất cả các thiết bị nhà thông minh giảm giá 10% trong tháng này” để tạo video quảng cáo"
+  },
+  {
+    "id": "eb_10_5",
+    "source": "E-book Bài 10",
+    "domain_id": 2,
+    "domain_name": "Kỹ thuật xây dựng Prompt cơ bản",
+    "lesson_id": 10,
+    "lesson_title": "CÂU LỆNH LIÊN QUAN ĐẾN VIDEO",
+    "type": "multiple_choice",
+    "question": "Lợi ích chính của việc thêm phụ đề tự động vào video bằng AI là gì?",
+    "options": {
+      "A": "Tăng độ phân giải của video.",
+      "B": "Tự động thêm hiệu ứng màu nước cho video.",
+      "C": "Loại bỏ hoàn toàn âm thanh trong video.",
+      "D": "Hỗ trợ khán giả gặp khó khăn về thính giác hoặc xem ở nơi ồn ào."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nhấn mạnh rằng thêm phụ đề tự động vào video, ví dụ như cho video quảng cáo thiết bị nhà thông minh, giúp hỗ trợ khán giả gặp khó khăn về thính giác hoặc xem ở môi trường ồn ào, nâng cao"
+  },
+  {
+    "id": "eb_11_1",
+    "source": "E-book Bài 11",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 11,
+    "lesson_title": "CẢI THIỆN CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Để tránh kết quả không mong muốn khi sử dụng AI tạo sinh, người dùng nên làm gì khi xây dựng prompt?",
+    "options": {
+      "A": "Sử dụng từ viết tắt để tiết kiệm thời gian.",
+      "B": "Viết prompt rõ ràng, cụ thể và tránh thuật ngữ mơ hồ.",
+      "C": "Nhập prompt chung chung để nhận nhiều kết quả.",
+      "D": "Chỉ định vai trò mà không cần ngữ cảnh."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nhấn mạnh rằng sử dụng prompt rõ ràng, cụ thể và tránh viết tắt hoặc thuật ngữ mơ hồ (ví dụ: thay “Khả năng AV của Tesla” bằng “Những khả năng tự lái của xe Tesla Model S là gì?”) giúp đảm"
+  },
+  {
+    "id": "eb_11_2",
+    "source": "E-book Bài 11",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 11,
+    "lesson_title": "CẢI THIỆN CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Khi muốn tạo nội dung dễ hiểu cho người cao tuổi không rành công nghệ, prompt nào sau đây là phù hợp nhất?",
+    "options": {
+      "A": "“Viết mô tả chi tiết về thiết bị nhà thông minh cho người cao tuổi không rành công nghệ”.",
+      "B": "“Viết mô tả chi tiết về thiết bị nhà thông minh với thuật ngữ kỹ thuật”.",
+      "C": "“Tóm tắt về thiết bị nhà thông minh”.",
+      "D": "“Viết thông cáo báo chí về thiết bị nhà thông minh”."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nêu ví dụ rằng prompt như “Viết lại mô tả chi tiết về thiết bị nhà thông minh cho người cao tuổi không rành công nghệ” sẽ giúp AI tạo nội dung đơn giản, dễ hiểu, với ví dụ thực tế thay vì thuật"
+  },
+  {
+    "id": "eb_11_3",
+    "source": "E-book Bài 11",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 11,
+    "lesson_title": "CẢI THIỆN CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Sự khác biệt chính giữa nhân vật (persona) và vai trò (role) trong xây dựng prompt là gì?",
+    "options": {
+      "A": "Nhân vật tập trung vào chức năng, vai trò tập trung vào tính cách.",
+      "B": "Cả hai đều giống nhau và có thể thay thế lẫn nhau.",
+      "C": "Nhân vật phản ánh tính cách, vai trò tập trung vào chức năng hoặc trách nhiệm.",
+      "D": "Nhân vật chỉ dùng cho nội dung kỹ thuật, vai trò dùng cho nội dung sáng tạo."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu giải thích rằng nhân vật (persona) phản ánh tính cách, như “Viết với nhân vật thân thiện, dễ hiểu”, trong khi vai trò (role) tập trung vào chức năng, như “Viết từ góc độ kỹ thuật viên lắp đặt”, giúp"
+  },
+  {
+    "id": "eb_11_4",
+    "source": "E-book Bài 11",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 11,
+    "lesson_title": "CẢI THIỆN CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Tại sao cần cung cấp ngữ cảnh cụ thể trong prompt khi sử dụng AI tạo sinh?",
+    "options": {
+      "A": "Để tăng tính sáng tạo của nội dung.",
+      "B": "Để đảm bảo nội dung đầu ra chính xác và phù hợp với mục đích. BÀI 11: CẢI THIỆN CÂU LỆNH 48 IIG Vietnam",
+      "C": "Để giảm thời gian xử lý của AI.",
+      "D": "Để tránh sử dụng các tiêu chuẩn phong cách ngành."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng cung cấp ngữ cảnh cụ thể, như “Viết thư mời nhận việc cho kỹ thuật viên lắp đặt thiết bị nhà thông minh với mức lương 23 đô la/giờ”, giúp AI tạo nội dung chính xác, phù hợp với mục đích,"
+  },
+  {
+    "id": "eb_11_5",
+    "source": "E-book Bài 11",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 11,
+    "lesson_title": "CẢI THIỆN CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng tiêu chuẩn phong cách ngành, prompt nào sau đây sẽ tạo ra nội dung phù hợp nhất cho một thông cáo báo chí?",
+    "options": {
+      "A": "“Viết mô tả thiết bị nhà thông minh cho người cao tuổi”.",
+      "B": "“Tóm tắt về thiết bị nhà thông minh”.",
+      "C": "“Viết hướng dẫn lắp đặt bộ điều nhiệt với nhân vật kỹ thuật”.",
+      "D": "“Viết thông cáo báo chí cho việc ra mắt bộ điều nhiệt nhà thông minh mới theo phong cách Associated Press”."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu đưa ví dụ rằng sử dụng prompt “Viết thông cáo báo chí cho việc ra mắt bộ điều nhiệt nhà thông minh mới theo phong cách Associated Press” sẽ tạo nội dung trực tiếp, rõ ràng, phù hợp với chuẩn tin"
+  },
+  {
+    "id": "eb_12_1",
+    "source": "E-book Bài 12",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 12,
+    "lesson_title": "THÊM ĐẦU VÀO VÀO CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Kỹ thuật “few-shot prompting” có lợi ích chính nào khi sử dụng trong AI tạo sinh?",
+    "options": {
+      "A": "Tăng độ chính xác và giảm sự mơ hồ bằng cách cung cấp ví dụ cụ thể.",
+      "B": "Tăng tốc độ xử lý của AI.",
+      "C": "Loại bỏ hoàn toàn nhu cầu kiểm tra kết quả đầu ra.",
+      "D": "Chỉ áp dụng cho dịch thuật văn bản."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nêu rằng “few-shot prompting” cung cấp các ví dụ cụ thể để định hướng AI, giúp tăng độ chính xác và giảm sự mơ hồ trong các tác vụ như phân tích cảm xúc hoặc tạo nội dung có cấu trúc, ví dụ như"
+  },
+  {
+    "id": "eb_12_2",
+    "source": "E-book Bài 12",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 12,
+    "lesson_title": "THÊM ĐẦU VÀO VÀO CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Bảng thuật ngữ (glossary) được sử dụng trong dịch thuật bằng AI để làm gì?",
+    "options": {
+      "A": "Đảm bảo dịch đúng các từ hoặc cụm từ dễ gây nhầm lẫn.",
+      "B": "Tăng tốc độ dịch thuật mà không cần kiểm tra.",
+      "C": "Tạo mẫu tài liệu tự động cho nhiều đối tượng.",
+      "D": "Thay thế hoàn toàn vai trò của người kiểm tra bản dịch."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu giải thích rằng bảng thuật ngữ giúp chỉ định bản dịch đúng cho các thuật ngữ cụ thể, như dịch “smart home” thành “nhà thông minh” thay vì “nhà hiện đại”, đảm bảo độ chính xác và tính nhất quán"
+  },
+  {
+    "id": "eb_12_3",
+    "source": "E-book Bài 12",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 12,
+    "lesson_title": "THÊM ĐẦU VÀO VÀO CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Khi tạo mẫu email ưu đãi giảm giá bằng AI, các trường thay đổi (như [Tên khách hàng]) có vai trò gì?",
+    "options": {
+      "A": "Tăng độ phức tạp của mẫu email.",
+      "B": "Giúp tùy chỉnh nhanh chóng và đảm bảo tính nhất quán cho nhiều đối tượng.",
+      "C": "Loại bỏ nhu cầu chỉnh sửa email sau khi tạo.",
+      "D": "Chỉ dùng để thêm thông tin liên hệ."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu ví dụ rằng mẫu email với các trường thay đổi như [Tên khách hàng] hoặc [Tên công ty] giúp tùy chỉnh nhanh chóng cho nhiều đối tượng (ví dụ: Stellar Advertising, New Beginnings Animal"
+  },
+  {
+    "id": "eb_12_4",
+    "source": "E-book Bài 12",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 12,
+    "lesson_title": "THÊM ĐẦU VÀO VÀO CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Tại sao việc sử dụng tài liệu nghiên cứu làm nguồn tham khảo trong AI tạo sinh lại quan trọng?",
+    "options": {
+      "A": "Giảm chi phí sử dụng công cụ AI.",
+      "B": "Thay thế hoàn toàn việc sử dụng lịch sử trò chuyện.",
+      "C": "Chỉ áp dụng cho các tài liệu không cần kiểm tra.",
+      "D": "Tăng độ chính xác và cho phép trích dẫn nguồn thông tin rõ ràng. BÀI 12: THÊM ĐẦU VÀO VÀO CÂU LỆNH 54 IIG Vietnam"
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nhấn mạnh rằng chỉ định tài liệu tham khảo, như trang web NIST hoặc tài liệu “Hướng dẫn bảo mật IoT.pdf”, giúp AI tạo nội dung đáng tin cậy, có nguồn gốc rõ ràng, đặc biệt phù hợp cho báo cáo"
+  },
+  {
+    "id": "eb_12_5",
+    "source": "E-book Bài 12",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 12,
+    "lesson_title": "THÊM ĐẦU VÀO VÀO CÂU LỆNH",
+    "type": "multiple_choice",
+    "question": "Lợi ích của việc xem lại lịch sử trò chuyện trong AI tạo sinh là gì?",
+    "options": {
+      "A": "Tạo nội dung hoàn toàn mới mà không cần prompt.",
+      "B": "Truy cập dữ liệu từ các luồng trò chuyện khác nhau.",
+      "C": "Tự động dịch nội dung sang ngôn ngữ khác.",
+      "D": "Cho phép cập nhật hoặc mở rộng kết quả trong cùng luồng trò chuyện."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu giải thích rằng tham chiếu lịch sử trò chuyện trong cùng luồng giúp cập nhật hoặc mở rộng kết quả, ví dụ như đổi mức giảm giá từ 10% sang 25% trong mẫu email hoặc bổ sung thông tin bảo mật"
+  },
+  {
+    "id": "eb_13_1",
+    "source": "E-book Bài 13",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 13,
+    "lesson_title": "CÁC KỸ THUẬT CÂU LỆNH PHỔ BIẾN",
+    "type": "multiple_choice",
+    "question": "Kỹ thuật “zero-shot prompting” khác với “few-shot prompting” ở điểm nào?",
+    "options": {
+      "A": "Zero-shot cung cấp ví dụ cụ thể, còn few-shot không cung cấp ngữ cảnh.",
+      "B": "Zero-shot không cung cấp ngữ cảnh, còn few-shot cung cấp ví dụ để định hướng kết quả.",
+      "C": "Zero-shot yêu cầu nhiều bước tư duy, còn few-shot chỉ cần một câu lệnh.",
+      "D": "Zero-shot chỉ áp dụng cho phân tích cảm xúc, còn few-shot dùng cho tạo hình ảnh."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng zero-shot prompting không cung cấp ngữ cảnh hay ví dụ, yêu cầu kết quả trực tiếp (ví dụ: “Tạo hình ảnh về tủ lạnh thông minh trong gia đình”), trong khi few-shot prompting cung cấp ví dụ"
+  },
+  {
+    "id": "eb_13_2",
+    "source": "E-book Bài 13",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 13,
+    "lesson_title": "CÁC KỸ THUẬT CÂU LỆNH PHỔ BIẾN",
+    "type": "multiple_choice",
+    "question": "Kỹ thuật “chain of thought prompting” phù hợp nhất cho tình huống nào? IIG Vietnam 57",
+    "options": {
+      "A": "Yêu cầu mô tả ngắn gọn về một thiết bị nhà thông minh.",
+      "B": "Yêu cầu dịch thuật nội dung sang ngôn ngữ khác.",
+      "C": "Yêu cầu liệt kê từng bước chuẩn bị lắp đặt thiết bị nhà thông minh.",
+      "D": "Yêu cầu tạo hình ảnh nghệ thuật từ văn bản."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu giải thích rằng chain of thought prompting yêu cầu quy trình từng bước để đạt kết quả chi tiết, ví dụ: “Liệt kê các bước chuẩn bị lắp đặt thiết bị nhà thông minh và thời điểm thực hiện”, tạo ra danh"
+  },
+  {
+    "id": "eb_13_3",
+    "source": "E-book Bài 13",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 13,
+    "lesson_title": "CÁC KỸ THUẬT CÂU LỆNH PHỔ BIẾN",
+    "type": "multiple_choice",
+    "question": "Kỹ thuật “reverse prompting” được sử dụng để làm gì?",
+    "options": {
+      "A": "Tạo nội dung ngẫu nhiên mà không cần mục tiêu cụ thể.",
+      "B": "Tự động thêm phụ đề cho video.",
+      "C": "Bắt đầu từ kết quả mong muốn để xác định các yếu tố hoặc bước cần thiết.",
+      "D": "Phân tích cảm xúc từ các bình luận."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu định nghĩa reverse prompting là kỹ thuật bắt đầu từ kết quả mong muốn để xác định các yếu tố hoặc bước cần thiết, ví dụ: “Một người hàng xóm tiết kiệm 20% hóa đơn năng lượng nhờ thiết bị nhà thông minh."
+  },
+  {
+    "id": "eb_13_4",
+    "source": "E-book Bài 13",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 13,
+    "lesson_title": "CÁC KỸ THUẬT CÂU LỆNH PHỔ BIẾN",
+    "type": "multiple_choice",
+    "question": "Kỹ thuật “self-consistency prompting” có lợi ích gì khi mô tả một thiết bị nhà thông minh?",
+    "options": {
+      "A": "Tạo ra một mô tả duy nhất mà không cần chạy lại prompt.",
+      "B": "Tự động dịch mô tả sang nhiều ngôn ngữ.",
+      "C": "Tạo hình ảnh thiết bị thay vì mô tả văn bản.",
+      "D": "Chạy cùng prompt nhiều lần để tìm điểm nhất quán trong các mô tả."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nêu rằng self-consistency prompting chạy cùng prompt nhiều lần (ví dụ: “Mô tả một thiết bị nhà thông minh phổ biến” chạy 3 lần) để tìm điểm nhất quán trong các mô tả, như đều nhấn mạnh tính"
+  },
+  {
+    "id": "eb_13_5",
+    "source": "E-book Bài 13",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 13,
+    "lesson_title": "CÁC KỸ THUẬT CÂU LỆNH PHỔ BIẾN",
+    "type": "multiple_choice",
+    "question": "Kỹ thuật “prompt chaining” phù hợp nhất cho tình huống nào?",
+    "options": {
+      "A": "Yêu cầu mô tả ngắn gọn về một thiết bị mà không cần chi tiết.",
+      "B": "Tạo video từ hình ảnh tĩnh với hiệu ứng nghệ thuật.",
+      "C": "Chỉ định một bảng thuật ngữ để dịch thuật.",
+      "D": "Đặt câu hỏi tiếp nối dựa trên kết quả trước để đào sâu thông tin."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu đưa ví dụ về prompt chaining, như yêu cầu 1: “Mô tả kính cửa sổ thông minh” và yêu cầu 2: “Thiết bị này giúp ích gì cho ngôi nhà của tôi?”, để đào sâu thông tin từ kết quả trước, cung cấp lợi ích"
+  },
+  {
+    "id": "eb_14_1",
+    "source": "E-book Bài 14",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 14,
+    "lesson_title": "XÁC MINH ĐỘ CHÍNH XÁC",
+    "type": "multiple_choice",
+    "question": "Tại sao cần kiểm tra tính xác thực của dữ liệu lịch sử từ AI Tạo sinh trước khi sử dụng?",
+    "options": {
+      "A": "Vì dữ liệu có thể không chính xác hoặc lỗi thời, cần đối chiếu với nguồn đáng tin cậy.",
+      "B": "Để tăng tốc độ xử lý của AI.",
+      "C": "Để giảm chi phí sử dụng công cụ AI.",
+      "D": "Vì AI luôn cung cấp thông tin thời gian thực."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nhấn mạnh rằng dữ liệu lịch sử từ AI cần được kiểm tra vì có thể không chính xác hoặc lỗi thời, ví dụ như danh sách gậy golf TaylorMade thiếu Milled Grind 5 Wedges (ra mắt 2025). Đối chiếu"
+  },
+  {
+    "id": "eb_14_2",
+    "source": "E-book Bài 14",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 14,
+    "lesson_title": "XÁC MINH ĐỘ CHÍNH XÁC",
+    "type": "multiple_choice",
+    "question": "Khi yêu cầu AI cung cấp thông tin về thiết bị nhà thông minh mới nhất, bước nào là cần thiết để đảm bảo độ chính xác?",
+    "options": {
+      "A": "Chấp nhận kết quả AI mà không cần kiểm tra.",
+      "B": "Kiểm tra với nguồn thời gian thực như công cụ tìm kiếm hoặc trang web chính thức.",
+      "C": "Chỉ sử dụng dữ liệu từ lịch sử trò chuyện của AI.",
+      "D": "Yêu cầu AI dịch thông tin sang ngôn ngữ khác."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng thông tin hiện tại từ AI, như danh sách thiết bị nhà thông minh, có thể không phản ánh thời gian thực (ví dụ: thiếu Philips Hue Smart Bulb Gen 5 ra mắt 2025). Kiểm tra với nguồn thời"
+  },
+  {
+    "id": "eb_14_3",
+    "source": "E-book Bài 14",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 14,
+    "lesson_title": "XÁC MINH ĐỘ CHÍNH XÁC",
+    "type": "multiple_choice",
+    "question": "Khi AI cung cấp dữ liệu số liệu, như tổng diện tích sàn của một căn cabin, người dùng nên làm gì để xác minh?",
+    "options": {
+      "A": "Tin tưởng hoàn toàn vào phép tính của AI.",
+      "B": "Bỏ qua việc kiểm tra vì AI luôn chính xác.",
+      "C": "Tự tính lại hoặc sử dụng máy tính để kiểm tra logic tính toán.",
+      "D": "Chỉ kiểm tra nếu số liệu liên quan đến tài chính."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu đưa ví dụ rằng phép tính diện tích cabin (974 ft²) từ AI cần được tự tính lại hoặc kiểm tra bằng máy tính để xác nhận tính chính xác, đảm bảo không có sai sót trước khi sử dụng trong báo cáo hoặc"
+  },
+  {
+    "id": "eb_14_4",
+    "source": "E-book Bài 14",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 14,
+    "lesson_title": "XÁC MINH ĐỘ CHÍNH XÁC",
+    "type": "multiple_choice",
+    "question": "Điều gì có thể xảy ra nếu không xác minh dữ liệu hiện tại từ AI về giá cổ phiếu?",
+    "options": {
+      "A": "Có thể sử dụng dữ liệu lỗi thời, như giá 50 USD thay vì 55 USD, dẫn đến quyết định sai lầm.",
+      "B": "Kết quả sẽ luôn chính xác vì AI cập nhật thời gian thực.",
+      "C": "Dữ liệu sẽ tự động được dịch sang ngôn ngữ khác.",
+      "D": "AI sẽ tự động sửa lỗi mà không cần kiểm tra."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nêu ví dụ rằng giá cổ phiếu từ AI (50 USD, tháng 12/2024) có thể không chính xác so với giá thời gian thực (55 USD, xác minh qua Bloomberg). Không kiểm tra có thể dẫn đến quyết định sai lầm"
+  },
+  {
+    "id": "eb_14_5",
+    "source": "E-book Bài 14",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 14,
+    "lesson_title": "XÁC MINH ĐỘ CHÍNH XÁC",
+    "type": "multiple_choice",
+    "question": "Việc kiểm tra số liệu thống kê từ AI, như số hộ gia đình sử dụng thiết bị nhà thông minh, có lợi ích gì?",
+    "options": {
+      "A": "Giảm thời gian xử lý của AI.",
+      "B": "Tăng tính sáng tạo của dữ liệu.",
+      "C": "Loại bỏ hoàn toàn nhu cầu sử dụng nguồn bên ngoài.",
+      "D": "Đảm bảo thông tin chính xác cho báo cáo hoặc kế hoạch kinh doanh, duy trì uy tín."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nhấn mạnh rằng xác minh số liệu thống kê, như 300 triệu hộ gia đình sử dụng thiết bị nhà thông minh (2024) so với 320 triệu (2025, từ Statista), đảm bảo thông tin chính xác cho báo cáo, duy trì"
+  },
+  {
+    "id": "eb_15_1",
+    "source": "E-book Bài 15",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 15,
+    "lesson_title": "XÁC ĐỊNH TIỀM NĂNG CHO SỰ THIÊN VỊ",
+    "type": "multiple_choice",
+    "question": "Thiên lệch trong AI tạo sinh có thể xuất phát từ đâu?",
+    "options": {
+      "A": "Chỉ từ câu lệnh của người dùng.",
+      "B": "Từ dữ liệu huấn luyện hoặc câu lệnh không rõ ràng.",
+      "C": "Chỉ từ các hàng rào bảo vệ (guardrails) của AI.",
+      "D": "Từ việc sử dụng công cụ tìm kiếm thời gian thực."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng thiên lệch trong AI tạo sinh có thể xuất phát từ dữ liệu huấn luyện chứa định kiến xã hội (ví dụ: ưu tiên nam CEO) hoặc từ câu lệnh không rõ ràng của người dùng (ví dụ: “Mô tả một kỹ sư"
+  },
+  {
+    "id": "eb_15_2",
+    "source": "E-book Bài 15",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 15,
+    "lesson_title": "XÁC ĐỊNH TIỀM NĂNG CHO SỰ THIÊN VỊ",
+    "type": "multiple_choice",
+    "question": "Để giảm thiểu thiên lệch giới tính khi yêu cầu AI tạo ảnh về một CEO, người dùng nên làm gì?",
+    "options": {
+      "A": "Nhập prompt chung như “Tạo ảnh về một CEO điều hành cuộc họp”.",
+      "B": "Chỉ định rõ ràng như “Tạo ảnh về một nữ CEO điều hành cuộc họp”.",
+      "C": "Yêu cầu AI tự động chọn giới tính ngẫu nhiên.",
+      "D": "Bỏ qua việc kiểm tra kết quả vì AI luôn công bằng."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu đưa ví dụ rằng prompt “Tạo ảnh về một CEO điều hành cuộc họp” có thể dẫn đến hình ảnh nam CEO do thiên lệch trong dữ liệu huấn luyện. Điều chỉnh thành “Tạo ảnh về một nữ CEO điều hành"
+  },
+  {
+    "id": "eb_15_3",
+    "source": "E-book Bài 15",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 15,
+    "lesson_title": "XÁC ĐỊNH TIỀM NĂNG CHO SỰ THIÊN VỊ",
+    "type": "multiple_choice",
+    "question": "Vai trò của các hàng rào bảo vệ (guardrails) trong AI tạo sinh là gì?",
+    "options": {
+      "A": "Tăng tốc độ xử lý của AI.",
+      "B": "Loại bỏ hoàn toàn mọi thiên lệch trong dữ liệu.",
+      "C": "Lọc nội dung để bảo vệ người dùng, nhưng có thể tạo ra thiên lệch mới.",
+      "D": "Chỉ áp dụng cho dịch thuật nội dung. BÀI 15: XÁC ĐỊNH TIỀM NĂNG CHO SỰ THIÊN VỊ 68 IIG Vietnam"
+    },
+    "answer": "C",
+    "explanation": "Tài liệu giải thích rằng các hàng rào bảo vệ giúp lọc nội dung để bảo vệ người dùng (ví dụ: chặn nội dung không phù hợp), nhưng có thể tạo ra thiên lệch mới nếu lọc quá mức hoặc ưu tiên một nhóm đối"
+  },
+  {
+    "id": "eb_15_4",
+    "source": "E-book Bài 15",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 15,
+    "lesson_title": "XÁC ĐỊNH TIỀM NĂNG CHO SỰ THIÊN VỊ",
+    "type": "multiple_choice",
+    "question": "Khi AI mô tả thiết bị nhà thông minh ưu tiên phản hồi giọng nam, điều chỉnh prompt như thế nào để giảm thiên lệch giới tính?",
+    "options": {
+      "A": "Yêu cầu “Mô tả thiết bị nhà thông minh với giọng nam”.",
+      "B": "Yêu cầu “Mô tả thiết bị nhà thông minh cho người trẻ”.",
+      "C": "Yêu cầu “Mô tả thiết bị nhà thông minh phản hồi đồng đều với mọi giới tính”.",
+      "D": "Không điều chỉnh vì AI tự sửa thiên lệch."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu đưa ví dụ rằng để giảm thiên lệch giới tính, cần điều chỉnh prompt thành “Mô tả thiết bị nhà thông minh phản hồi đồng đều với mọi giới tính”, đảm bảo mô tả trung lập, nhấn mạnh khả năng phản"
+  },
+  {
+    "id": "eb_15_5",
+    "source": "E-book Bài 15",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 15,
+    "lesson_title": "XÁC ĐỊNH TIỀM NĂNG CHO SỰ THIÊN VỊ",
+    "type": "multiple_choice",
+    "question": "Làm thế nào để tránh lan truyền thiên lệch độ tuổi trong kế hoạch marketing thiết bị nhà thông minh?",
+    "options": {
+      "A": "Yêu cầu AI tập trung vào nhóm nhân khẩu học trẻ.",
+      "B": "Bỏ qua việc kiểm tra kết quả marketing.",
+      "C": "Chỉ sử dụng dữ liệu từ nguồn không đáng tin cậy.",
+      "D": "Yêu cầu “Đề xuất kế hoạch marketing bao gồm cả người cao tuổi”."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nêu ví dụ rằng prompt “Đề xuất kế hoạch marketing cho thiết bị nhà thông minh” có thể thiên về người trẻ, bỏ qua người cao tuổi. Điều chỉnh thành “Đề xuất kế hoạch marketing bao gồm cả người"
+  },
+  {
+    "id": "eb_16_1",
+    "source": "E-book Bài 16",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 16,
+    "lesson_title": "HỆ QUẢ PHÁP LÝ TIỀM ẨN",
+    "type": "multiple_choice",
+    "question": "Để tuân thủ quyền sở hữu trí tuệ khi sử dụng AI tạo sinh, người dùng nên làm gì khi muốn sử dụng bài báo từ một tạp chí?",
+    "options": {
+      "A": "Sử dụng bài báo mà không cần xin phép vì AI tự động xử lý bản quyền.",
+      "B": "Chỉ sử dụng bài báo nếu AI không phát hiện bản quyền.",
+      "C": "Bỏ qua việc kiểm tra bản quyền để tiết kiệm thời gian.",
+      "D": "Liên hệ tạp chí để xin phép sử dụng bài báo hoặc sử dụng dữ liệu công khai."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nêu rằng để tránh vi phạm bản quyền, cần xin phép chủ sở hữu bài báo từ tạp chí hoặc sử dụng dữ liệu công khai khi huấn luyện mô hình AI hoặc tạo nội dung, nhằm đảm bảo tuân thủ quyền sở hữu"
+  },
+  {
+    "id": "eb_16_2",
+    "source": "E-book Bài 16",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 16,
+    "lesson_title": "HỆ QUẢ PHÁP LÝ TIỀM ẨN",
+    "type": "multiple_choice",
+    "question": "Hệ quả pháp lý nào có thể xảy ra nếu sử dụng nội dung AI tạo sinh chứa thông tin sai lệch về một cá nhân?",
+    "options": {
+      "A": "Tăng uy tín của doanh nghiệp.",
+      "B": "Không có hậu quả vì AI chịu trách nhiệm pháp lý.",
+      "C": "Tự động sửa lỗi thông tin mà không cần kiểm tra.",
+      "D": "Bị khởi kiện phỉ báng, dẫn đến bồi thường thiệt hại."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu đưa ví dụ rằng nội dung AI chứa thông tin sai lệch về một cá nhân có thể dẫn đến khởi kiện phỉ báng, gây thiệt hại tài chính. Giải pháp là kiểm tra tính chính xác của nội dung trước khi công bố để"
+  },
+  {
+    "id": "eb_16_3",
+    "source": "E-book Bài 16",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 16,
+    "lesson_title": "HỆ QUẢ PHÁP LÝ TIỀM ẨN",
+    "type": "multiple_choice",
+    "question": "Tính minh bạch trong sử dụng AI tạo sinh có vai trò gì?",
+    "options": {
+      "A": "Giảm tốc độ xử lý của AI để tăng độ chính xác.",
+      "B": "Loại bỏ hoàn toàn nhu cầu kiểm tra dữ liệu.",
+      "C": "Xây dựng niềm tin với người dùng và thể hiện cam kết tránh thiên lệch.",
+      "D": "Chỉ áp dụng cho các công ty không sử dụng dữ liệu cá nhân."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu nhấn mạnh rằng tính minh bạch, như công khai cách xử lý dữ liệu và biện pháp giảm thiên lệch, giúp xây dựng niềm tin với người dùng, giảm hoài nghi và thể hiện cam kết đạo đức trong sử"
+  },
+  {
+    "id": "eb_16_4",
+    "source": "E-book Bài 16",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 16,
+    "lesson_title": "HỆ QUẢ PHÁP LÝ TIỀM ẨN",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng dữ liệu cá nhân từ thiết bị nhà thông minh trong AI, giải pháp nào giúp tránh vi phạm quyền riêng tư?",
+    "options": {
+      "A": "Sử dụng dữ liệu mà không cần sự đồng ý của người dùng.",
+      "B": "Chỉ sử dụng dữ liệu nếu AI tự động mã hóa.",
+      "C": "Đảm bảo có sự đồng ý rõ ràng từ người dùng trước khi sử dụng.",
+      "D": "Bỏ qua luật quyền riêng tư để tiết kiệm chi phí. BÀI 16: HỆ QUẢ PHÁP LÝ TIỀM ẨN 72 IIG Vietnam"
+    },
+    "answer": "C",
+    "explanation": "Tài liệu đưa ví dụ rằng sử dụng dữ liệu cá nhân từ thiết bị nhà thông minh mà không có sự đồng ý có thể vi phạm luật quyền riêng tư (như vụ phạt Facebook 5 tỷ USD). Giải pháp là đảm bảo có sự đồng ý"
+  },
+  {
+    "id": "eb_16_5",
+    "source": "E-book Bài 16",
+    "domain_id": 3,
+    "domain_name": "Tinh chỉnh Prompt & Đánh giá mô hình",
+    "lesson_id": 16,
+    "lesson_title": "HỆ QUẢ PHÁP LÝ TIỀM ẨN",
+    "type": "multiple_choice",
+    "question": "Tài liệu minh bạch về sử dụng dữ liệu trong AI tạo sinh nên bao gồm những gì?",
+    "options": {
+      "A": "Nguồn dữ liệu, quy trình xử lý, biện pháp giảm thiên lệch và bảo vệ quyền riêng tư.",
+      "B": "Chỉ thông tin về chi phí sử dụng AI.",
+      "C": "Chỉ danh sách các thiết bị nhà thông minh được sử dụng.",
+      "D": "Thông tin không cần công khai để tránh rủi ro."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nêu rằng tài liệu minh bạch nên bao gồm các mục như nguồn dữ liệu, quy trình xử lý, biện pháp giảm thiên lệch và bảo vệ quyền riêng tư, ví dụ như dữ liệu từ cảm biến thiết bị nhà thông minh"
+  },
+  {
+    "id": "eb_17_1",
+    "source": "E-book Bài 17",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 17,
+    "lesson_title": "SỰ QUAN TRỌNG CỦA QUYỀN RIÊNG TƯ DỮ LIỆU",
+    "type": "multiple_choice",
+    "question": "Để bảo vệ dữ liệu cá nhân khi sử dụng AI tạo sinh, người dùng nên làm gì khi nhập thông tin nhạy cảm như số điện thoại của khách hàng?",
+    "options": {
+      "A": "Nhập trực tiếp thông tin vào câu lệnh để phân tích.",
+      "B": "Sử dụng dữ liệu ẩn danh thay vì thông tin cá nhân cụ thể.",
+      "C": "Yêu cầu AI tự động mã hóa dữ liệu trước khi xử lý.",
+      "D": "Bỏ qua việc kiểm tra vì AI luôn bảo mật dữ liệu."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu ví dụ rằng thay vì nhập “Phân tích dữ liệu bán hàng của khách hàng Nguyễn Văn A, số điện thoại 0123456789”, nên sử dụng dữ liệu ẩn danh như “Phân tích dữ liệu bán hàng của một khách"
+  },
+  {
+    "id": "eb_17_2",
+    "source": "E-book Bài 17",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 17,
+    "lesson_title": "SỰ QUAN TRỌNG CỦA QUYỀN RIÊNG TƯ DỮ LIỆU",
+    "type": "multiple_choice",
+    "question": "Thông tin định danh cá nhân (PII) là gì và tại sao cần tránh đưa vào mô hình AI?",
+    "options": {
+      "A": "Dữ liệu như tên, số điện thoại có thể bị lợi dụng để đánh cắp danh tính. IIG Vietnam 77",
+      "B": "Dữ liệu công khai, không cần bảo vệ.",
+      "C": "Dữ liệu chỉ liên quan đến tài chính, không ảnh hưởng đến quyền riêng tư.",
+      "D": "Dữ liệu tự động được AI xóa sau khi sử dụng."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu định nghĩa PII là dữ liệu nhận dạng cá nhân như tên, số điện thoại, tài khoản ngân hàng, và cần tránh đưa vào mô hình AI vì có thể bị lợi dụng để đánh cắp danh tính, dẫn đến rủi ro như gian lận hoặc"
+  },
+  {
+    "id": "eb_17_3",
+    "source": "E-book Bài 17",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 17,
+    "lesson_title": "SỰ QUAN TRỌNG CỦA QUYỀN RIÊNG TƯ DỮ LIỆU",
+    "type": "multiple_choice",
+    "question": "Hậu quả pháp lý nào có thể xảy ra nếu dữ liệu cá nhân từ thiết bị nhà thông minh bị sử dụng mà không có sự đồng ý?",
+    "options": {
+      "A": "Vi phạm luật quyền riêng tư, dẫn đến phạt tiền như vụ Facebook bị phạt 5 tỷ USD.",
+      "B": "Không có hậu quả vì AI chịu trách nhiệm pháp lý.",
+      "C": "Tăng uy tín của doanh nghiệp do sử dụng AI.",
+      "D": "Chỉ bị phạt nếu dữ liệu bị công khai trên mạng xã hội."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu đưa ví dụ rằng sử dụng dữ liệu cá nhân từ thiết bị nhà thông minh mà không có sự đồng ý có thể vi phạm luật quyền riêng tư, dẫn đến phạt tiền lớn, như vụ Facebook bị phạt 5 tỷ USD, gây thiệt hại"
+  },
+  {
+    "id": "eb_17_4",
+    "source": "E-book Bài 17",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 17,
+    "lesson_title": "SỰ QUAN TRỌNG CỦA QUYỀN RIÊNG TƯ DỮ LIỆU",
+    "type": "multiple_choice",
+    "question": "Chính sách nội bộ của công ty nên bao gồm những gì để ngăn chặn rò rỉ PII vào mô hình AI công khai?",
+    "options": {
+      "A": "Chỉ cấm sử dụng AI trong công việc.",
+      "B": "Hướng dẫn không nhập PII, sử dụng dữ liệu ẩn danh và báo cáo vi phạm.",
+      "C": "Yêu cầu nhập PII để kiểm tra hiệu suất AI.",
+      "D": "Bỏ qua đào tạo nhân viên để tiết kiệm chi phí."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu ví dụ về chính sách nội bộ với 8 điểm, bao gồm không nhập PII (tên, số điện thoại) vào prompt, sử dụng dữ liệu ẩn danh và báo cáo vi phạm ngay lập tức, giúp ngăn chặn rò rỉ dữ liệu và tuân"
+  },
+  {
+    "id": "eb_17_5",
+    "source": "E-book Bài 17",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 17,
+    "lesson_title": "SỰ QUAN TRỌNG CỦA QUYỀN RIÊNG TƯ DỮ LIỆU",
+    "type": "multiple_choice",
+    "question": "Làm thế nào để ngăn dữ liệu cá nhân được sử dụng để huấn luyện mô hình AI như ChatGPT?",
+    "options": {
+      "A": "Nhập dữ liệu mà không cần kiểm tra cài đặt.",
+      "B": "Yêu cầu AI tự động xóa dữ liệu sau khi sử dụng.",
+      "C": "Vào cài đặt “Data Controls” và tắt tùy chọn “Improve the model for everyone”.",
+      "D": "Chỉ sử dụng các mô hình AI không công khai."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu giải thích rằng để ngăn dữ liệu được sử dụng trong huấn luyện, người dùng có thể vào cài đặt tài khoản ChatGPT, chọn “Data Controls” và tắt tùy chọn “Improve the model for everyone”, đảm bảo"
+  },
+  {
+    "id": "eb_18_1",
+    "source": "E-book Bài 18",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 18,
+    "lesson_title": "RỦI RO CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Để giảm thiểu nguy cơ lan truyền thông tin sai lệch từ AI tạo sinh, doanh nghiệp nên làm gì?",
+    "options": {
+      "A": "Sử dụng nội dung AI mà không cần kiểm tra.",
+      "B": "Chỉ sử dụng AI cho các tác vụ không quan trọng.",
+      "C": "Xác minh tính chính xác của thông tin đầu ra với nguồn đáng tin cậy.",
+      "D": "Tăng cường nhập thông tin cá nhân vào câu lệnh."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu nêu rằng để tránh lan truyền thông tin sai lệch, như quảng cáo thiết bị nhà thông minh với tính năng sai, cần xác minh dữ liệu đầu ra với nguồn đáng tin cậy như báo cáo kỹ thuật trước khi công bố,"
+  },
+  {
+    "id": "eb_18_2",
+    "source": "E-book Bài 18",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 18,
+    "lesson_title": "RỦI RO CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Hậu quả nào có thể xảy ra nếu nhân viên sử dụng AI để tạo báo cáo thị trường với số liệu lỗi thời?",
+    "options": {
+      "A": "Tăng uy tín của doanh nghiệp.",
+      "B": "Không có hậu quả vì AI luôn chính xác.",
+      "C": "Tự động cập nhật số liệu mà không cần kiểm tra.",
+      "D": "Quyết định kinh doanh sai lầm, ảnh hưởng tài chính."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu đưa ví dụ rằng báo cáo thị trường chứa số liệu lỗi thời từ AI có thể dẫn đến quyết định kinh doanh sai lầm, gây thiệt hại tài chính. Giải pháp là áp dụng chính sách kiểm tra thông tin qua nguồn"
+  },
+  {
+    "id": "eb_18_3",
+    "source": "E-book Bài 18",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 18,
+    "lesson_title": "RỦI RO CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Tại sao người dùng AI tạo sinh cần chịu trách nhiệm về nội dung được tạo ra?",
+    "options": {
+      "A": "Vì AI tự động chịu trách nhiệm pháp lý.",
+      "B": "Vì nội dung AI không bao giờ chứa thông tin sai lệch.",
+      "C": "Để tăng tốc độ xử lý của AI.",
+      "D": "Để tránh tạo nội dung dẫn đến hành vi bất hợp pháp hoặc gây hại như deepfake."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nhấn mạnh rằng người dùng phải chịu trách nhiệm để tránh tạo nội dung dẫn đến hành vi bất hợp pháp hoặc gây hại, như deepfake hoặc đánh cắp danh tính, ví dụ: tránh tạo video deepfake của một"
+  },
+  {
+    "id": "eb_18_4",
+    "source": "E-book Bài 18",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 18,
+    "lesson_title": "RỦI RO CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Điều gì có thể xảy ra nếu nhập thông tin cá nhân (PII) như tên và địa chỉ vào câu lệnh AI?",
+    "options": {
+      "A": "Rủi ro rò rỉ thông tin, dẫn đến đánh cắp danh tính.",
+      "B": "Dữ liệu tự động được mã hóa và an toàn.",
+      "C": "AI từ chối xử lý câu lệnh chứa PII.",
+      "D": "Không có rủi ro vì AI luôn bảo mật."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu đưa ví dụ rằng nhập PII như “Phân tích dữ liệu của Jason Manobag, địa chỉ XYZ” có thể gây rò rỉ thông tin, dẫn đến đánh cắp danh tính. Giải pháp là sử dụng dữ liệu ẩn danh để bảo vệ quyền riêng tư."
+  },
+  {
+    "id": "eb_18_5",
+    "source": "E-book Bài 18",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 18,
+    "lesson_title": "RỦI RO CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Giải pháp nào giúp sinh viên sử dụng AI một cách có trách nhiệm khi viết bài luận?",
+    "options": {
+      "A": "Sử dụng AI để viết bài luận hoàn chỉnh và nộp ngay.",
+      "B": "Sử dụng AI để hỗ trợ nghiên cứu thay vì tạo bài viết hoàn chỉnh.",
+      "C": "Nhập thông tin cá nhân vào AI để tạo bài luận cá nhân hóa.",
+      "D": "Bỏ qua việc kiểm tra nội dung vì AI luôn chính xác."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng sinh viên sử dụng AI để viết bài luận hoàn chỉnh có thể vi phạm quy định học thuật (xác suất phát hiện 74%). Giải pháp là sử dụng AI để hỗ trợ nghiên cứu, đảm bảo tuân thủ đạo đức học"
+  },
+  {
+    "id": "eb_19_1",
+    "source": "E-book Bài 19",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 19,
+    "lesson_title": "TÁC ĐỘNG XÃ HỘI CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Một trong những tác động tiêu cực của AI tạo sinh là gì? BÀI 19: TÁC ĐỘNG XÃ HỘI CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH 86 IIG Vietnam",
+    "options": {
+      "A": "Tăng hiệu quả công việc và sáng tạo ý tưởng.",
+      "B": "Giảm tương tác con người do phụ thuộc vào AI.",
+      "C": "Phá vỡ rào cản ngôn ngữ cho giao tiếp quốc tế.",
+      "D": "Tự động hóa các tác vụ lặp lại để tiết kiệm thời gian."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu nêu rằng một tác động tiêu cực của AI tạo sinh là giảm tương tác con người, như khi người dùng dựa vào AI để trả lời câu hỏi thay vì thảo luận với đồng nghiệp, dẫn đến suy giảm kỹ năng giao"
+  },
+  {
+    "id": "eb_19_2",
+    "source": "E-book Bài 19",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 19,
+    "lesson_title": "TÁC ĐỘNG XÃ HỘI CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Để giảm thiểu nguy cơ lan truyền thông tin sai lệch từ AI về rủi ro an ninh của thiết bị nhà thông minh, người dùng nên làm gì?",
+    "options": {
+      "A": "Sử dụng kết quả AI mà không cần kiểm tra.",
+      "B": "Chỉ sử dụng AI cho các tác vụ không nhạy cảm.",
+      "C": "Xác minh thông tin qua nguồn đáng tin cậy trước khi công bố.",
+      "D": "Nhập câu lệnh mơ hồ để tăng tính sáng tạo."
+    },
+    "answer": "C",
+    "explanation": "Tài liệu đưa ví dụ rằng khi AI liệt kê rủi ro an ninh của thiết bị nhà thông minh, kết quả có thể phóng đại và gây hại nếu không được kiểm tra. Xác minh qua nguồn đáng tin cậy trước khi công bố giúp tránh"
+  },
+  {
+    "id": "eb_19_3",
+    "source": "E-book Bài 19",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 19,
+    "lesson_title": "TÁC ĐỘNG XÃ HỘI CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Lợi ích nào của AI tạo sinh hỗ trợ doanh nghiệp mở rộng thị trường?",
+    "options": {
+      "A": "Giảm tương tác con người để tăng hiệu quả.",
+      "B": "Gia tăng bất bình đẳng trong tiếp cận công nghệ.",
+      "C": "Tạo nội dung sai lệch để thu hút khách hàng.",
+      "D": "Phân tích dữ liệu để xác định khu vực tiếp thị tiềm năng."
+    },
+    "answer": "D",
+    "explanation": "Tài liệu nêu ví dụ rằng yêu cầu “Phân tích dữ liệu bán hàng để tìm khu vực tiếp thị tiềm năng” giúp AI xác định khu vực có nhu cầu cao về thiết bị nhà thông minh, hỗ trợ doanh nghiệp mở rộng thị trường"
+  },
+  {
+    "id": "eb_19_4",
+    "source": "E-book Bài 19",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 19,
+    "lesson_title": "TÁC ĐỘNG XÃ HỘI CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Khi sử dụng AI để tạo quảng cáo thiết bị nhà thông minh, điều gì là cần thiết để sử dụng có trách nhiệm?",
+    "options": {
+      "A": "Kiểm tra tính pháp lý và tránh thiên lệch trong nội dung quảng cáo.",
+      "B": "Nhập câu lệnh mơ hồ để tăng tính sáng tạo.",
+      "C": "Bỏ qua xác minh thông tin để tiết kiệm thời gian.",
+      "D": "Chỉ sử dụng AI cho các quảng cáo không nhạy cảm."
+    },
+    "answer": "A",
+    "explanation": "Tài liệu nhấn mạnh rằng khi tạo quảng cáo với câu lệnh như “Tạo quảng cáo nhấn mạnh lợi ích tiết kiệm năng lượng”, cần kiểm tra tính pháp lý và tránh thiên lệch để đảm bảo nội dung đáng tin cậy, tăng"
+  },
+  {
+    "id": "eb_19_5",
+    "source": "E-book Bài 19",
+    "domain_id": 4,
+    "domain_name": "Đạo đức, Pháp luật & Tác động xã hội",
+    "lesson_id": 19,
+    "lesson_title": "TÁC ĐỘNG XÃ HỘI CỦA TRÍ TUỆ NHÂN TẠO TẠO SINH",
+    "type": "multiple_choice",
+    "question": "Giải pháp nào giúp giảm bất bình đẳng trong tiếp cận công nghệ AI tạo sinh?",
+    "options": {
+      "A": "Chỉ cung cấp AI cho các khu vực đô thị phát triển.",
+      "B": "Đầu tư vào hạ tầng và đào tạo công nghệ cho khu vực nông thôn.",
+      "C": "Khuyến khích phụ thuộc hoàn toàn vào AI.",
+      "D": "Bỏ qua việc đào tạo để giảm chi phí."
+    },
+    "answer": "B",
+    "explanation": "Tài liệu đưa ví dụ rằng bất bình đẳng tiếp cận xảy ra khi khu vực nông thôn thiếu hạ tầng công nghệ. Giải pháp là đầu tư vào hạ tầng và đào tạo công nghệ cho các khu vực kém phát triển, giúp thu hẹp"
+  }
+]
